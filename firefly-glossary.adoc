@@ -1,0 +1,973 @@
+:doctitle: Firefly Unofficial Glossary
+:revnumber: 1.0
+:reproducible:
+:experimental:
+:imagesdir: images
+:showtitle!:
+:!sectids:
+
+== Firefly Unofficial Glossary
+
+[.normal]
+This _Firefly: The Game_ Unofficial Glossary contains a unified set of
+definitions from the Firefly base game and all expansions, organized
+alphabetically by topic. This is not a teaching guide or rulebook—rather,
+it is a reference to be used during play to assist with specific questions.
+
+Phrases in *bold* refer to other relevant topics within the glossary.
+Additional relevant topics which aren't mentioned in the main text are listed
+at the end of the entry under "`Related Topics`".
+
+_Italicized_ phrases indicate important details that should not be overlooked.
+
+Some topics which apply only to expansions are noted with the expansion name in
+blue:
+
+* [.expansion]#BlueSun# — Blue Sun
+* [.expansion]#Kalidasa# — Kalidasa
+* [.expansion]#C&P# — Crime & Punishment
+* [.expansion]#P&BH# — Pirates & Bounty Hunters
+
+Expansion rules that conflict with core game rules are called out explicitly.
+For example, [.expansion]#BlueSun# allows you to Mosey into a Reaver space,
+whereas the base rules do not, as noted in the "`Fly Action`" topic.
+
+=== Actions
+
+Each turn, you may perform two _different_ actions. The four actions
+you may choose from are *Buy*, *Deal*, *Fly*, and *Work*.
+
+=== Alert Tokens
+
+image::alert-tokens.png[float=right,pdfwidth=33%] 
+
+[.expansion]#BlueSun# [.expansion]#Kalidasa# Alert Tokens represent a higher
+level of Reaver or Alliance activity within a sector. Multiple tokens of the
+same or different type may coexist in the same sector. The three sectors of
+Reaver Space contain a permanent Reaver Alert Token.
+
+Each time a *Reaver Cutter* moves, place a Reaver Alert Token in the vacated
+sector.
+
+Alliance Alert Tokens are only placed by Story Cards, Setup Cards, or Nav
+Cards.
+
+If you move into a Sector containing Alert Tokens:
+
+* Before drawing a *Nav Card*, roll a die. This die roll is not considered a Test
+and cannot be modified.
+
+* If the roll is less than or equal to the number of Alert Tokens, the player to
+your right moves a ship to the sector as follows:
+
+** image:alert-token-reaver.png[fit=line] _Reaver Token_ — Move any Reaver Cutter.
+
+** image:alert-token-alliance.png[fit=line] _Alliance Token in Alliance Sector_ —  Move the Alliance Cruiser or the Operative's
+Corvette.
+
+** image:alert-token-alliance.png[fit=line] _Alliance Token in Border or Rim Sector_ — Move the Operative's Corvette.
+
+* If needed, resolve the *Alliance Contact* or *Corvette Contact* tile for *Outlaw
+Ships*. This may end your *Fly Action*, in which case do not draw a Nav Card if
+you were Full Burning.
+
+* Remove all Alert Tokens from the sector, regardless of the die roll.
+
+If both Alliance and Reaver Tokens are present, resolve just the Alliance
+Tokens first. If they are triggered, discard the Reaver Tokens, otherwise
+proceed to resolve the Reaver Tokens.
+
+=== Alliance Alert Cards
+
+image::priority-alert.png[float=right,pdfwidth=33%] 
+
+[.expansion]#C&P# When an Alert Card is in play, there is a new special rule
+that affects all the crews working the ‘Verse. 
+
+Some Set Up and Story Cards direct you to start the game with an Alert in Play.
+There are also Misbehave Cards that direct you to put an Alert into play.
+
+When an Alert Card leaves play, return it to the bottom of the Alert Deck.
+
+=== Alliance Contact
+
+Each time any Firefly encounters the *Alliance Cruiser*, immediately resolve
+the Alliance Contact tile if that Firefly is an *Outlaw Ship*.
+
+Once Alliance Contact has been resolved, it will not affect that Firefly again
+while they remain together in the same sector.
+
+=== Alliance Cruiser
+
+The Alliance Cruiser moves in 3 different ways:
+
+* When you draw the "`Alliance Cruiser`" Card, the Cruiser moves to your
+Sector.
+
+* When you draw the "`Alliance Entanglements`" card, you move the Alliance
+Cruiser.
+
+* When you draw the "`Cruiser Patrol`" card, the player to your right
+moves the Cruiser one Sector within Alliance Space.
+
+*Related Topics:* Alliance Contact
+
+=== Boarding Test
+
+[.expansion]#P&BH# You may need to pass a Boarding Test when working a Piracy
+Job or Bounty against a rival player's ship.
+
+Perform a *Skill Test* using either your Techimage:skill-tech.png[fit=line] or
+Negotiateimage:skill-negotiate.png[fit=line] skill for the Boarding Test. If
+you succeed, proceed with your action. If you fail, the attempt is over and
+your Work Action ends.
+
+=== Bonus Opportunity
+
+[.expansion]#Kalidasa# Some *Job Cards* include Bonus Opportunities. These are
+_optional_ job tasks which can be completed after starting the Job, but before
+completing the Job, for an additional reward. Use a Work Action to complete a
+Bonus Opportunity.
+
+When a bonus opportunity is completed, Place a Completed Token on the Job Card
+and take the listed Bonus reward. You do _not_ have to pay your crew a cut of
+the Bonus.
+
+=== Botched
+
+If *Working* a job results in "`Attempt Botched`", you've failed this attempt
+at the job but may try it again in the future. Leave the Job Card in the Active
+Jobs area and end your Work Action.
+
+If a *Story Goal* attempt results in "`Attempt Botched`", you've failed this
+attempt but may attempt the goal again next turn.
+
+=== Bounty Cards
+
+image::wanted-card.png[float=right,pdfwidth=33%] 
+
+[.expansion]#P&BH# Bounties are a special type of public Job requiring you to
+apprehend a Fugitive, Bind them by Law, and deliver them to a drop-off
+destination. Bounty Cards are typically associated with *Wanted* Crew.
+
+Two *Work Actions* are needed to complete a Bounty Job—one to capture the
+Fugitive, and one deliver them. To capture, you must be in the same Sector as
+the fugitive. Then:
+
+* If the Fugitive is in a rival’s Crew or is already Bound by Law on a Rival's
+ship, you must pass a Boarding Test followed by a Showdown against the entire
+rival Crew.
+
+* If the Fugitive is in the discard pile of a Supply Planet, resolve a Showdown
+between your Crew and the Fugitive. The player to your right rolls for the
+defending Fugitive. The Fugitive uses their best available Skill.
+
+* If the Fugitive is a member of your Crew you may betray them. The Fugitive is
+apprehended without a Showdown. However, all members of your Crew except your
+Leader become disgruntled.
+
+The *Showdown* outcomes are shown on the Bounty Card. Once apprehended, take
+the Fugitive's Crew Card and the Bounty Card. These are not part of your Crew
+or Jobs, and do not count against your Crew or Job Limits or Cargo capacity (do
+not take a Fugitive Token).
+
+If you captured an _already Bound_ Fugitive from a Rival, you may choose to
+deliver the Bounty yourself, or to Rescue the Fugitive by either adding them to
+your Crew for free or returning them to their Supply Planet's discard pile. In
+both cases, return the Bounty Card to the bottom of its deck.
+
+If *Reaver Contact* kills your Fugitives, any captured Fugitives on your ship are
+removed from the game.
+
+When a Bounty is delivered, take your reward and pay your crew (or Disgruntle
+them), as with any other Job. Then, remove the Bounty Card and Crew Card from
+the game.
+
+Each time the "`*Alliance Cruiser*`" Nav Card is drawn, return the 3 face-up
+Bounties to the bottom of the Bounty Deck and reveal 3 new Bounties.
+
+*Related Topics*: Cortex Alert
+
+=== Bribes
+
+Some Negotiateimage:skill-negotiate.png[fit=line] *Skill Tests* say "`Bribes`"
+after their number. _Before_ you roll a die, you may choose to pay Bribes.
+
+For every $100 you pay the bank, add +1 to your total. Your new test result
+will be your Roll + Skill + Bribes.
+
+=== Buy Action
+
+The Buy Action may only be used at a *Supply Planet*. You may choose _one_ of
+these two options:
+
+* Purchase *Supply Cards*, Fuel (for $100 each), and Parts (for $300 each). When
+buying Supply Cards, you may *Consider* 3 cards, and buy up to 2 of those cards.
+
+* Send your entire Crew on Shore Leave: Pay $100 per Crew, whether
+Disgruntled or not, including your Leader, and remove all Disgruntled tokens.
+
+=== Cargo
+
+Shipping Jobs require you to pick up legal Cargo at one location (using a *Work
+Action*) and deliver it to a different location (using a second Work Action).
+
+Once you are *Solid* with certain *Contacts*, you may sell excess Cargo to them
+when *Dealing* with them. When you are Solid with Lord Harrow, you may purchase
+Cargo from him.
+
+Players in the same sector may *Trade* Cargo along with other items.
+
+You may dump Cargo into space at any time on your turn to make more room in
+your hold.
+
+=== Challenge Cards
+
+image::challenge-card.png[float=right,pdfwidth=33%] 
+
+[.expansion]#BlueSun# When *Dealing* with Mr. Universe, you *Consider* Big Damn
+Challenges instead of Jobs. These count towards your 3-card hand limit.
+
+When starting a new Job with a *Work Action*, you may attach a Challenge card to
+the Job Card. Challenges may not be attached to Bounties or Piracy Jobs. Legal
+and Illegal Challenges may only be attached to Jobs of the same legality.
+Active Challenge Cards do not count toward your 3 Active Job limit.
+
+Challenge Cards add extra requirements in order to complete the Job, but also
+provide increased rewards.
+
+If a Challenge Card requires extra *Misbehaves*, that number of Misbehaves must
+be added at each step of the Job that already requires Misbehaving, or during
+the final step if the job does not normally require Misbehaving.
+
+When you complete a Job with an attached Challenge, you become Solid with Mr.
+Universe in addition to the Job's Contact.
+
+If you receive a *Warrant* while working a Job with an attached Challenge, you
+lose Reputation with Mr Universe.
+
+=== Consider
+
+When *Buying* equipment or *Dealing* with Contacts, you may Consider 3 cards, and
+may take up to 2 of those cards:
+
+* Look through the discard pile for the Supply Planet or Contact and choose up to
+3 cards to consider.
+* For each card less than 3 that you pull from the discard pile, you may draw 1
+card from the corresponding deck.
+* Once you have picked your 3 cards to consider, you may take up to 2 of them,
+paying if required.
+* Any unaccepted cards are placed in the appropriate discard pile.
+
+*Related Topics:* Buy Action, Deal Action
+
+=== Contacts
+
+Contacts have a variety of Jobs they’d like you to undertake. Signs on the map
+mark Contact Planets where you can use the *Deal Action* to *Consider* new jobs
+from the corresponding Contact Deck.
+
+=== Contraband
+
+Smuggling Jobs require you to pick up *Illegal* Contraband at one location (using
+a *Work Action*), and deliver it to a different location (using a second Work
+Action). These jobs require you to *Misbehave* when loading and/or unloading
+Contraband.
+
+Seized contraband can be difficult to replace. Replacements can occasionally be
+found through *Nav Cards* or *Misbehave Cards*, or by *Trading* with other
+players or when Solid with Fanty & Mingo.
+
+You may dump Contraband into space at any time on your turn to make more room
+in your hold.
+
+=== Cortex Alert
+
+[.expansion]#P&BH# A Cortex Alert is a special type of *Bounty Card* that pays
+out on a whole class of Crew (e.g. Bandits) rather than a single named
+Fugitive.
+
+If you are the first player to successfully apprehend one of the targets, take
+the Bounty Card as usual. You may attempt to apprehend additional targets on
+future turns to add to the bounty stack if you wish. When you deliver the Bounty,
+you receive the Bounty reward for each Bound Fugitive delivered.
+
+You may steal a Cortex Alert Bounty from a rival player, following the same
+Boarding Test and Showdown as when stealing a single Bound Fugitive. In this
+case, you steal _all_ Bound Crew Cards with the Bounty Card, as part of a
+single Work Action.
+
+*Related Topics:* Bounty Cards
+
+=== Corvette
+
+[.expansion]#Kalidasa# See *Operative's Corvette*.
+
+=== Corvette Contact
+
+[.expansion]#Kalidasa# When the *Operative's Corvette* ends its movement in a
+Sector with an *Outlaw Ship*, or an Outlaw Ship moves into the Corvette's
+sector, immediately resolve the Corvette Contact tile.
+
+=== Credits
+
+Credits are used to buy *Gear*, Ship *Upgrades*, *Fuel* and *Parts*, to hire
+*Crew* and pay them after completing a *Job*, and to offer *Bribes*.
+
+Credits are usually gained by completing jobs, selling *Cargo* or *Contraband* to
+*Solid* contacts, or in *Trade* with other players.
+
+=== Crew Cards
+
+Crew Cards can be found at *Supply Planets* along with Gear and Ship Upgrades,
+and can be acquired with a *Buy Action* by paying the fee shown on the card.
+
+Some Crew have professions—keywords which may help accomplish Jobs, Goals, or
+other effects. Professions include: Soldier, Merc, Pilot, Mechanic, Companion,
+Grifter, Medic, and Lawman.
+
+=== Crime Jobs
+
+Crime Jobs require you to travel to a destination and *Misbehave*.
+
+*Related Topics:* Work Action
+
+=== Cruiser
+
+See *Alliance Cruiser*.
+
+=== Cutter
+
+See *Reaver Cutter*.
+
+=== Deal Action
+
+If your Firefly is in a *Contact’s* Sector, you may Deal with that Contact to
+accept new jobs. If you are *Solid* with that Contact, you may also be able to
+sell *Cargo* and *Contraband* to them or perform other actions as part of your Deal
+Action.
+
+When accepting new jobs, you may *Consider* 3 cards, and may accept up to 2 of
+those cards.
+
+You may not have more than 3 inactive Jobs or Challenges in your hand at any
+time.
+
+=== Disgruntled
+
+image::disgruntled.png[float=right,pdfwidth=20%] 
+
+When a *Crew* becomes Disgruntled, place a Disgruntled Token on their card.
+
+If a Disgruntled Crew receives a second Disgruntled Token, they jump
+ship—return the Crew to the appropriate discard pile.
+
+If your *Leader* ever receives a second Disgruntled token, they’ve lost
+confidence in their Crew and fire them. Discard all your Crew, except for your
+Leader, to their Supply Deck discard piles. Remove the Disgruntled token from
+your Leader.
+
+You may, on your turn, hire Disgruntled Crew away from another player in your
+Sector by paying the Crew's hiring fee to the bank. Take the Crew Card and
+remove the Disgruntled token.
+
+You may remove Disgruntled Tokens by sending your Crew on Shore Leave during a
+*Buy Action*.
+
+*Related Topics:* Immoral Jobs
+
+=== Dismissing Crew
+
+You may dismiss Crew in any *Planetary Sector* by placing them in the discard
+pile of the card’s Supply Deck. This does not require an Action. You may not
+dismiss Crew to prevent them from being Killed. You may not dismiss your
+Leader.
+
+=== Drive Core
+
+Each Drive Core has a maximum range, which is the number of sectors it can move
+the Firefly during a Full Burn. Drive Cores may also have additional special
+rules listed on their cards. 
+
+You may only have one Drive Core at a time. If you get a new Drive Core,
+Discard your previous one.
+
+*Related Topics:* Fly Action
+
+=== Evade
+
+When a *Nav Card* result says to Evade, move your ship to an adjacent sector. Do
+not draw an additional Nav Card. No further movement is possible. If you have
+another Action to take, you may do so. 
+
+You may never Evade into a sector that is occupied by a Reaver Cutter.
+
+=== Fly Action
+
+When Flying, you may choose _one_ of these two options:
+
+* _Full Burn_ — spend one *Fuel* and move up to the range of your ship's *Drive
+Core*. For each sector entered, draw and resolve a *Nav Card* for the new region
+before continuing.
+
+* _Mosey_ — move one sector and your Fly action ends. Do not spend Fuel or draw a
+Nav Card.
+
+You may never move diagonally between sectors.
+
+When a sector is occupied by a *Reaver Cutter*, no ship may Full Burn or
+*Evade* into that sector, but may Mosey in if playing with [.expansion]#BlueSun#.
+
+=== Fuel
+
+Fuel is needed in order to Full Burn during the *Fly Action*. Fuel can be
+purchased at any *Supply Planet* as part of a *Buy Action*. You may dump Fuel
+at any time on your turn to make space in your hold.
+
+=== Full Burn
+
+See *Fly Action*.
+
+=== Full Stop
+
+If a card instructs you to "`Full Stop`", your ship stops in its current
+Sector. No further movement is possible. If you have another Action to take,
+you may do so.
+
+=== Fugitives
+
+Transport Jobs require you to pick up *Passengers* or Fugitives at one location
+(using a *Work Action*), and deliver them to a different location (using a second
+Work Action). Transporting Fugitives is *Illegal* and makes you an *Outlaw Ship*.
+
+You may drop Fugitives off in any sector with a Planet at any time on your turn
+to make space in your hold.
+
+=== Gear Cards
+
+Gear is weapons, equipment, clothing, vehicles or anything else your *Crew* might
+carry to help overcome obstacles.
+
+Each member of your Crew may only equip one piece of Gear at any given time. If
+you own more Gear than can be carried by your Crew, leave the extra Gear on
+your ship until it’s needed. Gear not carried by a Crew may not be used in any
+way.
+
+Gear may be re-arranged between Crew and/or your Ship at any time except during
+a *Work Action*.
+
+Some Gear provides additional Skill Points, *Keywords* or other special
+abilities.
+
+=== Goal Token
+
+See *Story Goals*.
+
+=== Goods
+
+Goods are *Cargo*, *Contraband*, *Fuel* and *Parts*. If a card allows you to
+load a number of Goods, you may choose which type of Goods you’d like to load,
+and may mix different Goods.
+
+=== Havens
+
+[.expansion]#BlueSun# Some Story Cards will direct you to Choose Havens during
+Set Up. Each Story Card will detail the Havens’ importance and which planets
+may or may not be eligible for selection. 
+
+During Set Up, after choosing Leaders, players place their Haven tokens instead
+of placing their ships. Haven Tokens must be placed in Sectors containing
+planets but may not be placed at Supply or Contact planets. Players may not
+place their Haven Token in a Sector that is already another player’s Haven.
+Unless otherwise noted, players’ ships start at their Haven.
+
+[%breakable]
+=== Heavy Load
+
+image::heavy-load.png[float=right,pdfwidth=20%] 
+
+Some Jobs require transporting Heavy Loads. These requiring spending one extra
+*Fuel* during a Full Burn in order to heavy burn.
+
+The effect of multiple Heavy Load tokens is cumulative.
+
+If your *Drive Core* doesn't require Fuel to Full Burn, you must still pay the
+Heavy Load penalty.
+
+=== Immoral Jobs
+
+See *Morality*.
+
+=== Job Cards
+
+image::needs.png[float=right,pdfwidth=20%] 
+
+You may not have more than 3 Job cards in your hand at any given time. You may
+discard any Job you don’t want to undertake.
+
+Job Cards contain the Job Type (shipping, transport, smuggling, or crime),
+location(s) where the job is to be performed, whether the job is *Immoral* or
+not, if *Misbehaving* is required, *Skills* and *Keywords* needed to Work the
+job, the job's payout, and more.
+
+*Related Topics:* Bonus Opportunity, Work Action
+
+=== Keep Flying
+
+When a *Nav Card* outcome says to Keep Flying, you may continue your *Fly
+Action* if you still have range left on your *Drive Core*.
+
+=== Keywords
+
+Many *Gear Cards* and some *Crew* have green Keywords on their cards. These
+include: [.keyword]#FIREARM#, [.keyword]#SNIPER RIFLE#, [.keyword]#EXPLOSIVES#,
+[.keyword]#HACKING RIG#, [.keyword]#FAKE ID#, [.keyword]#TRANSPORT#, and
+[.keyword]#FANCY DUDS#.
+
+Keywords sometimes allow you to bypass a *Misbehave Card* entirely or may be
+a prerequisite for some Misbehave options or Job Cards.
+
+=== Killed
+
+Whenever a test result says to Kill some number of *Crew*, you must choose Crew
+to be removed from the game. If you choose your *Leader*, place a *Disgruntled*
+Token on your Leader and return your Leader to the ship for the rest of the
+*Work Action* instead of removing the Leader's Crew Card from the game.
+
+The *Medic* profession grants a chance to save the Crew and return them to the
+ship for the remainder of the turn.
+
+=== Kosherized rules
+
+Some Fight *Skill Tests* will say "`Kosherized`" after the skill point number.
+In Kosherized fights, you may not add any Fight
+Skillimage:skill-fight.png[fit=line] from *Gear* to your total: only the
+image:skill-fight.png[fit=line] listed on your *Crew Cards* may be used.
+
+=== Lawman
+
+[.expansion]#P&BH# Some Crew have the profession of Lawman. These Crew are free
+to hire and are not paid a cut from Jobs.
+
+Lawmen will never work an *Illegal* Job—they will remain onboard your ship
+instead.
+
+Each Lawman pays a Bounty Bonus when a Bound Fugitive is successfully delivered
+to the drop-off location on a *Bounty Card*.
+
+=== Leaders
+
+Your Leader always counts as Crew, taking up one Crew space on your Ship Card,
+costing $100 during Shore Leave, etc.
+
+When the outcome of any event would cause your Leader to be *Killed*, return
+them to your ship for the rest of the *Work Action* and place a *Disgruntled*
+Token on the card instead. *Medics* can attempt to save a Leader before this
+happens.
+
+If your Leader ever receives a second Disgruntled token, they’ve lost
+confidence in their Crew and fire them. Discard all your Crew, except for your
+Leader, to their Supply Deck discard piles. Remove the Disgruntled token from
+your Leader.
+
+Leaders can never be hired away by other players.
+
+=== Make-Work
+
+If you have nothing to do and your ship is in a *Planetary Sector*, you may use
+your entire *Work Action* to take $200 from the bank instead of Working a Job.
+
+=== Medic
+
+If you have a Medic in your Crew, make a Medic Check whenever a Crew is
+*Killed*: 
+
+* 1–4: Crew Dies, remove from play.
+* 5–6: Crew is returned to the ship. 
+
+Some Gear and Ship Upgrades can modify the Medic Check.
+
+Medics may make a Medic check even if they are the ones at risk of being
+Killed. They may also prevent a *Leader* from being *Disgruntled* when the
+Leader would normally be Killed.
+
+[%breakable]
+=== Misbehave Cards
+
+image::misbehave-card.png[float=right,pdfwidth=20%] 
+
+To complete some Jobs or Story Goals, you must proceed through the number of
+Misbehave Cards pictured on the Job Card. Draw cards one at a time and attempt
+each before proceeding to the next. Once you start the job attempt, you must
+see it through and cannot stop early.
+
+Most Misbehave Cards have two options you can choose from. Some options may
+have requirements such as *Keywords*. Some cards my have two steps to pass
+sequentially.
+
+The bottom of some Misbehave Cards list a Person, Profession, Item, or
+*Keyword* which will allow you to proceed automatically without misbehaving.
+
+Misbehaving outcomes:
+
+* _Proceed_ — continue to work the job.
+* _Attempt Botched_ — you've failed this attempt but may attempt the job again in
+the future. Leave the Job Card in the Active Jobs area and end your Work
+Action.
+* _Warrant Issued_ — you've failed the job and attracted the authorities. Place a
+*Warrant* Token on your Ship Card. Discard the job to its Contact Deck and end
+your Work Action.
+
+=== Morality
+
+Some Jobs are Immoral and some are Morally Subjective. A small red tab on the
+*Job Card* below the Legal/Illegal tab notes the Job's morality. If nothing is
+listed, the job is Moral.
+
+Whenever you complete an Immoral Job, all your Moral Crew become *Disgruntled*.
+
+[.expansion]#P&BH# Working on a Subjectively Moral job against a rival ship
+with a Moral Leader makes the job Immoral: your Moral Crew do not like to
+target other Moral Leaders.
+
+=== Mosey
+
+See *Fly Action*.
+
+=== Nav Cards
+
+Nav Cards describe obstacles and encounters in the 'Verse. When using the *Fly
+Action*, draw and resolve a Nav Card matching each sector entered (Alliance
+Space, Border Space, or Rim Space), before continuing to the next sector.
+
+When any Nav Deck becomes exhausted, or when a card marked "RESHUFFLE" is
+resolved, reshuffle the discard pile and remaining deck to form a new deck.
+
+=== Operative's Corvette
+
+[.expansion]#Kalidasa# The Operative prowls all of known space, looking for
+fugitives and wanted criminals. His Corvette may enter any sector on the map.
+
+If the Operative’s Corvette is ever in the same Sector as a *Reaver Cutter*, the
+Reavers are driven off. Move the Reaver ship to a Reaver Starting Sector.
+
+The Operative’s Corvette may not end its move in the three Reaver Starting Sectors.
+
+Whenever the Operative’s Corvette enters a Sector with any Reaver *Alert
+Tokens* image:alert-token-reaver.png[fit=line] , remove the tokens without
+resolving them.
+
+*Related Topics:* Corvette Contact
+
+=== Outlaw Ship
+
+A ship is considered an Outlaw Ship if it has any outstanding *Warrants*, is
+carrying *Contraband* or *Fugitives* (even in the ship's Stash), or has any *Wanted
+Crew* onboard.
+
+=== Parts
+
+Spare Parts are sometimes needed in order to make repairs while flying through
+the 'Verse. Parts can be purchased at a *Supply Planet* as part of a *Buy action*,
+or sometimes can be found through *Nav Cards* or other means.
+
+You may dump Parts at any time on your turn to make space in your hold.
+
+=== Passengers
+
+Transport Jobs require you to pick up Passengers or *Fugitives* at one location
+(using a *Work Action*), and deliver them to a different location (using a
+second Work Action).
+
+You may drop Passengers off in any sector with a Planet at any time on your
+turn to make space in your hold.
+
+=== Piracy Jobs
+
+[.expansion]#P&BH# Piracy Job Cards allow you to raid rival players' ships,
+making off with stolen goods: cargo, contraband, fuel and parts.
+
+Like any other job, a *Work Action* is used to Work a Piracy Job. Your ship must
+be in the same sector as your intended target. You must first pass a *Boarding
+Test* followed by a *Showdown*.
+
+=== Planetary Sector
+
+A Planetary Sector is any sector that contains a named planet. The Space Bazaar
+and Cortex Relay 7 count as planets.
+
+*Related Items:* Uroboros Belt
+
+=== Reaver Contact
+
+Resolve the Reaver Contact tile when starting your turn in a *Reaver Cutter's*
+sector. The tile offers two options, one of which requires a Pilot, Mechanic,
+and Fuel.
+
+=== Reaver Cutters
+
+If you start your turn in the same Sector as a Reaver Cutter, resolve the
+*Reaver Contact* tile.
+
+When a Sector is occupied by a Reaver Cutter, no ship may Full Burn or Evade
+into that Sector, but may Mosey in if playing with [.expansion]#BlueSun#.
+
+The Reaver Cutters can move in 3 different ways:
+
+* When you draw the "`Reaver Cutter`" card, the Cutter moves to your Sector.
+
+* When you draw the "`Reaver Bait`" card, you move the Cutter.
+
+* When you draw the "`Reavers on the Hunt`" card, the player to your right
+moves the Cutter one Sector within Border Space.
+
+Only one Reaver ship may ever be in a sector. If a Nav Card would call a second
+Cutter to a sector, instead immediately resolve Reaver Contact instead.
+
+If the Operative’s Corvette is ever in the same Sector as a Reaver Cutter, the
+Reavers are driven off. Move the Reaver ship to a Reaver Starting Sector.
+
+[.expansion]#BlueSun# Each time a Reaver Cutter moves, place a Reaver *Alert
+Token* in the vacated sector.
+
+=== Reputation
+
+See *Solid*.
+
+=== Salvage Op
+
+Some cards have "`Salvage Op`" listed on them. This may activate a bonus on
+certain Crew Cards.
+
+=== Seizure
+
+[.expansion]#C&P# Some *Misbehave Cards* call for Seizing a type of equipment.
+If your crew has any of their gear Seized, it is removed from the game and may
+not be repurchased.
+
+=== Set Up Cards
+
+Set Up Cards allow different ways to set up a game of Firefly (starting Jobs,
+Gear, map setup, etc.) Story Cards may override some Set Up Card steps.
+
+=== Ship Card
+
+Your Ship Card has a hold and a *Stash* that are used to store and hide goods,
+slots for a *Drive Core* and *Ship Upgrades*, and a maximum crew capacity.
+
+=== Ship Upgrade Cards
+
+Ship Upgrades allow you to customize your ship, and can be purchased at *Supply
+Planets*. Each Ship Card has a number of upgrade slots available. You may never
+have more Ship Upgrades than Ship Card upgrade slots. You may discard a Ship
+Upgrade at any time.
+
+=== Shore Leave
+
+See *Buy Action*.
+
+=== Showdown
+
+[.expansion]#P&BH# In a showdown, the active player is the Attacker and the
+target player is the Defender. The Attacker must first choose which Skill they
+will use in the Showdown. The Defender then chooses which Skill they will
+defend with.
+
+Both players may allocate their Gear to any Crew they wish before the Showdown
+roll.
+
+Both players roll a die and add it to their chosen Skill. The higher total wins
+the Showdown. The Defender wins ties.
+
+=== Skill Test
+
+There are three types of skills: Fightimage:skill-fight.png[fit=line],
+Techimage:skill-tech.png[fit=line] and
+Negotiateimage:skill-negotiate.png[fit=line]. You can find skill points on both
+*Crew* and *Gear* Cards. Each symbol shown on a Crew or Gear Card counts as 1
+skill point when performing Skill Tests. 
+
+image::skill-test.png[float=right,pdfwidth=50%] 
+
+Skill Tests are written as a Skill icon, followed by a small die and a target
+number. Roll a die and add all your available Skill Points of the appropriate
+type. Then, compare your total to the list of possible results under the target
+number.
+
+Whenever you roll a Firefly on the die, count it as a 6 and make a *Thrillin'
+Heroics Bonus Roll*—roll the die again and add the result to the total.
+
+=== Solid
+
+When you complete a *Job* for a *Contact* your reputation with them becomes
+Solid. Slide the completed Job Card under your Ship Card so the name of the
+Contact is visible. If you complete a job and are already Solid with that
+Contact, remove the newly completed job card from the game.
+
+When you are Solid, Contacts will buy Cargo and Contraband from you when
+dealing with them, and can offer other benefits.
+
+If you receive a *Warrant* while working a Job for a Contact, any reputation
+with that Contact is lost along with any and all benefits for being Solid.
+Remove from the game the completed Job Card used to track your Solid reputation
+with the contact. You may prove yourself useful again by completing another Job
+for the offended Contact and restore your Solid rep.
+
+Receiving a Warrant for _any reason_ will cause reputation loss with Harken,
+regardless of what contact the Job you were working came from. You may not
+become Solid with Harken while you have a Warrant.
+
+=== Splitting Up
+
+[.expansion]#C&P# Some *Misbehave Cards* require your Crew to split into two
+teams. You must have at least one Crew in each team. If you only have one Crew
+member left working the Job when called upon to Split your Crew, you’ve *Botched*
+the Job Attempt.
+
+=== Stash
+
+Your ship's Stash storage provides some protection against searches and piracy.
+When targeted by a Piracy Job, you may re-arrange your Goods, Passengers
+and Fugitives between your Cargo Hold and Stash.
+
+The Stash on Jetwash and Esmeralda may only hold Fuel.
+
+=== Story Cards
+
+Each game of Firefly starts with choosing a Story Card. Story Cards detail what
+each player needs to accomplish to win the game.
+
+If the Story Card has numbered *Story Goals* you must complete these goals in
+order. In other cases, there may only be a single goal needed to win.
+
+=== Story Goals
+
+If a Story Goal calls for a *Skill Test*, you must use a *Work Action* to
+advance the Goal; otherwise, the Goal is simply achieved when you meet its
+requirements.
+
+When you complete a Goal, take a Goal token to mark your progress. Once a Goal
+is achieved, it cannot be lost. Goals are not Jobs, thus you do not pay your
+Crew after working a Goal, and any abilities or cards which reference a "`Job`"
+do not apply.
+
+If a Story Goal results in "`Attempt *Botched*`", you've failed this attempt but
+may attempt the goal again next turn.
+
+If a Story Goal results in "`*Warrant* Issued`", you've failed the goal and
+attracted the authorities but may attempt the goal again next turn. Place a
+Warrant Token on your Ship Card.
+
+=== Supply Planets
+
+Supply Planets offer *Crew* for hire, *Gear* for your crew to carry and *Ship
+Upgrades*. Signs on the map mark Supply Planets where you can use the *Buy Action*
+to hire and acquire these cards.
+
+=== "`Thrillin’ Heroics`" Bonus Roll
+
+The dice in the game have a Firefly pictured instead of a 6. Whenever you roll
+a Firefly, count it as a 6 and make a Bonus Roll: roll the die again and add
+the result to the total.
+
+=== Trading
+
+When two or more players’ ships are _stopped_ in the same sector, they may
+buy, sell and trade *Crew*, *Fuel*, *Parts*, *Cargo*, *Contraband*, Ship
+*Upgrades* and *Gear* to one another without restriction. They may not exchange
+Jobs, Passengers, Fugitives or Drive Cores.
+
+Players are free to discuss and make these deals outside of the normal turn
+order and other players may take their normal turn while bargains are struck.
+Dealing with others players in this fashion does not require using an Action.
+The opportunity for Trading ends when one of the players leaves the sector.
+
+[.expansion]#BlueSun# Credits may be exchanged with another player at any time,
+regardless of location.
+
+=== Upgrades
+
+See *Ship Upgrades*.
+
+=== Uroboros Belt
+
+The Uroboros Belt is an area of space around the Blue Sun star that is littered
+with mineral-rich asteroids and planetoids. 
+
+You can start working a Job in the Uroboros Belt in any of the 4 Sectors that
+picture Uroboros asteroids.
+
+Uroboros Sectors are not considered *Planetary Sectors* unless they also contain
+a named planet.
+
+=== Wanted Crew
+
+image::wanted-crew.png[float=right,pdfwidth=33%] 
+
+*Crew* members with a small warrant badge next to their cost are wanted by the
+Alliance. If you have Wanted Crew onboard you are an *Outlaw Ship* and when you
+encounter the *Alliance Cruiser*, the Crew may be seized.
+
+=== Wanted Crew Tokens
+
+image::wanted-token.png[float=right,pdfwidth=25%] 
+
+[.expansion]#C&P# When a result states "`Your Crew is now Wanted`", add a Wanted
+token to each of your Crew who isn’t already Wanted. They now count as Wanted
+whenever you’re called upon to make a Wanted Crew Roll.
+
+If a Crew with a Wanted Token is dismissed, discard the Wanted Token.
+
+=== Warrant
+
+If you receive a Warrant while *Working* a *Job*, discard the Job, returning it
+to the discard pile of the issuing Contact. Any *Solid* Reputation with that
+Contact is lost.
+
+Receiving a Warrant for _any reason_ will cause reputation loss with Harken,
+regardless of what contact the Job you were working came from. You may not
+become Solid with Harken while you have a Warrant.
+
+=== Work Action
+
+Taking a Work Action allows you to attempt to move a single Job forward.
+Succeeding at a Crime job completes the job, while delivery jobs require two
+successful Work Actions at different locations—one to start the job and one to
+complete it.
+
+To work on a job:
+
+* Your Firefly must be in the specified location for the current Job step.
+* Confirm that the job's "`Needs`" are met. Usually this requires *Skills* or
+*Keywords*. "`Needs`" must be met during both the pick-up and drop-off stages of
+Delivery jobs.
+* Place the Job Card face-up in your Active Jobs area, if not already started.
+You may never have more than three active Jobs.
+* Select which *Crew* will participate and assign gear to them as desired. Crew and
+gear left on the ship may not be used during the attempt.
+* Follow the instructions on the Job Card to attempt to work the job.
+
+If, while working a Job, all your Crew is killed or returns to the ship, you’ve
+*Botched* the Job.
+
+After successfully completing a job:
+
+* Take the indicated payout from the bank, including any bonuses from the Job
+Card, Crew Cards, and Story Card.
+* Pay every crew member their fee, whether they worked on the job or not. Any
+Crew member you choose not to pay becomes *Disgruntled*.
+
+* To show you are *Solid* with a Contact, take the completed Job Card and slide
+it under your Ship Card so the name of the Contact is visible. If you were
+already Solid, remove the Job Card from the game.
+
+If you have nothing to do and your ship is in a *Planetary Sector*, you may
+instead use your entire Work Action to *Make-Work* at the planet: take $200
+from the bank instead of Working a Job.
+
+_Note:_ if you’ve Loaded Cargo, Contraband, Passengers or Fugitives on to your
+ship as part of a Job and subsequently lose them, you’re on your own to replace
+them. You can’t return to the Pick Up location to get more.
+
+*Related Topics:* Morality, Misbehave, Disgruntled.
+

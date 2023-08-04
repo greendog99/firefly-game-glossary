@@ -1,0 +1,5 @@
+extends: [default-with-font-fallbacks, ./theme-firefly.yml]
+
+page:
+  size: A4
+
