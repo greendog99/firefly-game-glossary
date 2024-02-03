@@ -39,7 +39,7 @@ you may choose from are *Buy*, *Deal*, *Fly*, and *Work*.
 
 === Alert Tokens
 
-image::alert-tokens.png[float=right,pdfwidth=33%] 
+image::alert-tokens.png[float=right,pdfwidth=33%]
 
 [.expansion]#BlueSun# [.expansion]#Kalidasa# Alert Tokens represent a higher
 level of Reaver or Alliance activity within a sector. Multiple tokens of the
@@ -79,10 +79,10 @@ proceed to resolve the Reaver Tokens.
 
 === Alliance Alert Cards
 
-image::priority-alert.png[float=right,pdfwidth=33%] 
+image::priority-alert.png[float=right,pdfwidth=33%]
 
 [.expansion]#C&P# When an Alert Card is in play, there is a new special rule
-that affects all the crews working the ‘Verse. 
+that affects all the crews working the ‘Verse.
 
 Some Set Up and Story Cards direct you to start the game with an Alert in Play.
 There are also Misbehave Cards that direct you to put an Alert into play.
@@ -109,6 +109,10 @@ Cruiser.
 
 * When you draw the "`Cruiser Patrol`" card, the player to your right
 moves the Cruiser one Sector within Alliance Space.
+
+[.expansion]#P&BH#
+Each time the "`Alliance Cruiser`" Nav Card is drawn, return the 3 face-up
+*Bounty Cards* to the bottom of their deck and reveal 3 new ones.
 
 *Related Topics:* Alliance Contact
 
@@ -144,7 +148,7 @@ attempt but may attempt the goal again next turn.
 
 === Bounty Cards
 
-image::wanted-card.png[float=right,pdfwidth=33%] 
+image::wanted-card.png[float=right,pdfwidth=33%]
 
 [.expansion]#P&BH# Bounties are a special type of public Job requiring you to
 apprehend a Fugitive, Bind them by Law, and deliver them to a drop-off
@@ -223,7 +227,7 @@ your hold.
 
 === Challenge Cards
 
-image::challenge-card.png[float=right,pdfwidth=33%] 
+image::challenge-card.png[float=right,pdfwidth=33%]
 
 [.expansion]#BlueSun# When *Dealing* with Mr. Universe, you *Consider* Big Damn
 Challenges instead of Jobs. These count towards your 3-card hand limit.
@@ -355,7 +359,7 @@ time.
 
 === Disgruntled
 
-image::disgruntled.png[float=right,pdfwidth=20%] 
+image::disgruntled.png[float=right,pdfwidth=20%]
 
 When a *Crew* becomes Disgruntled, place a Disgruntled Token on their card.
 
@@ -386,8 +390,8 @@ Leader.
 === Drive Core
 
 Each Drive Core has a maximum range, which is the number of sectors it can move
-the Firefly during a Full Burn. Drive Cores may also have additional special
-rules listed on their cards. 
+its ship during a Full Burn. Drive Cores may also have additional special
+rules listed on their cards.
 
 You may only have one Drive Core at a time. If you get a new Drive Core,
 Discard your previous one.
@@ -398,7 +402,7 @@ Discard your previous one.
 
 When a *Nav Card* result says to Evade, move your ship to an adjacent sector. Do
 not draw an additional Nav Card. No further movement is possible. If you have
-another Action to take, you may do so. 
+another Action to take, you may do so.
 
 You may never Evade into a sector that is occupied by a Reaver Cutter.
 
@@ -473,7 +477,7 @@ and may mix different Goods.
 
 [.expansion]#BlueSun# Some Story Cards will direct you to Choose Havens during
 Set Up. Each Story Card will detail the Havens’ importance and which planets
-may or may not be eligible for selection. 
+may or may not be eligible for selection.
 
 During Set Up, after choosing Leaders, players place their Haven tokens instead
 of placing their ships. Haven Tokens must be placed in Sectors containing
@@ -484,7 +488,7 @@ Unless otherwise noted, players’ ships start at their Haven.
 [%breakable]
 === Heavy Load
 
-image::heavy-load.png[float=right,pdfwidth=20%] 
+image::heavy-load.png[float=right,pdfwidth=20%]
 
 Some Jobs require transporting Heavy Loads. These requiring spending one extra
 *Fuel* during a Full Burn in order to heavy burn.
@@ -500,7 +504,7 @@ See *Morality*.
 
 === Job Cards
 
-image::needs.png[float=right,pdfwidth=20%] 
+image::needs.png[float=right,pdfwidth=20%]
 
 You may not have more than 3 Job cards in your hand at any given time. You may
 discard any Job you don’t want to undertake.
@@ -580,10 +584,10 @@ your entire *Work Action* to take $200 from the bank instead of Working a Job.
 === Medic
 
 If you have a Medic in your Crew, make a Medic Check whenever a Crew is
-*Killed*: 
+*Killed*:
 
 * 1–4: Crew Dies, remove from play.
-* 5–6: Crew is returned to the ship. 
+* 5–6: Crew is returned to the ship.
 
 Some Gear and Ship Upgrades can modify the Medic Check.
 
@@ -594,7 +598,7 @@ Leader would normally be Killed.
 [%breakable]
 === Misbehave Cards
 
-image::misbehave-card.png[float=right,pdfwidth=20%] 
+image::misbehave-card.png[float=right,pdfwidth=20%]
 
 To complete some Jobs or Story Goals, you must proceed through the number of
 Misbehave Cards pictured on the Job Card. Draw cards one at a time and attempt
@@ -785,9 +789,9 @@ There are three types of skills: Fightimage:skill-fight.png[fit=line],
 Techimage:skill-tech.png[fit=line] and
 Negotiateimage:skill-negotiate.png[fit=line]. You can find skill points on both
 *Crew* and *Gear* Cards. Each symbol shown on a Crew or Gear Card counts as 1
-skill point when performing Skill Tests. 
+skill point when performing Skill Tests.
 
-image::skill-test.png[float=right,pdfwidth=50%] 
+image::skill-test.png[float=right,pdfwidth=50%]
 
 Skill Tests are written as a Skill icon, followed by a small die and a target
 number. Roll a die and add all your available Skill Points of the appropriate
@@ -892,7 +896,7 @@ See *Ship Upgrades*.
 === Uroboros Belt
 
 The Uroboros Belt is an area of space around the Blue Sun star that is littered
-with mineral-rich asteroids and planetoids. 
+with mineral-rich asteroids and planetoids.
 
 You can start working a Job in the Uroboros Belt in any of the 4 Sectors that
 picture Uroboros asteroids.
@@ -902,7 +906,7 @@ a named planet.
 
 === Wanted Crew
 
-image::wanted-crew.png[float=right,pdfwidth=33%] 
+image::wanted-crew.png[float=right,pdfwidth=33%]
 
 *Crew* members with a small warrant badge next to their cost are wanted by the
 Alliance. If you have Wanted Crew onboard you are an *Outlaw Ship* and when you
@@ -910,7 +914,7 @@ encounter the *Alliance Cruiser*, the Crew may be seized.
 
 === Wanted Crew Tokens
 
-image::wanted-token.png[float=right,pdfwidth=25%] 
+image::wanted-token.png[float=right,pdfwidth=25%]
 
 [.expansion]#C&P# When a result states "`Your Crew is now Wanted`", add a Wanted
 token to each of your Crew who isn’t already Wanted. They now count as Wanted
