@@ -1,5 +1,5 @@
 :doctitle: Firefly Unofficial Glossary
-:revnumber: 1.0
+:revnumber: 1.1
 :reproducible:
 :experimental:
 :imagesdir: images
@@ -303,15 +303,9 @@ single Work Action.
 
 *Related Topics:* Bounty Cards
 
-=== Corvette
-
-[.expansion]#Kalidasa# See *Operative's Corvette*.
-
 === Corvette Contact
 
-[.expansion]#Kalidasa# When the *Operative's Corvette* ends its movement in a
-Sector with an *Outlaw Ship*, or an Outlaw Ship moves into the Corvette's
-sector, immediately resolve the Corvette Contact tile.
+[.expansion]#Kalidasa# See *Operative's Corvette*.
 
 === Credits
 
@@ -661,7 +655,9 @@ Whenever the Operative’s Corvette enters a Sector with any Reaver *Alert
 Tokens* image:alert-token-reaver.png[fit=line] , remove the tokens without
 resolving them.
 
-*Related Topics:* Corvette Contact
+When the Operative's Corvette ends its movement in a Sector with an *Outlaw
+Ship*, or an Outlaw Ship moves into the Corvette's sector, immediately resolve
+the Corvette Contact tile.
 
 === Outlaw Ship
 
