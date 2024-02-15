@@ -722,7 +722,7 @@ The Reaver Cutters can move in 3 different ways:
 moves the Cutter one Sector within Border Space.
 
 Only one Reaver ship may ever be in a sector. If a Nav Card would call a second
-Cutter to a sector, instead immediately resolve Reaver Contact instead.
+Cutter to a sector, immediately resolve Reaver Contact instead.
 
 If the Operative’s Corvette is ever in the same Sector as a Reaver Cutter, the
 Reavers are driven off. Move the Reaver ship to a Reaver Starting Sector.
