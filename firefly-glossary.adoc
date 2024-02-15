@@ -49,8 +49,7 @@ Reaver Space contain a permanent Reaver Alert Token.
 Each time a *Reaver Cutter* moves, place a Reaver Alert Token in the vacated
 sector.
 
-Alliance Alert Tokens are only placed by Story Cards, Setup Cards, or Nav
-Cards.
+Alliance Alert Tokens are only placed according to Story or Setup Cards.
 
 If you move into a Sector containing Alert Tokens:
 
