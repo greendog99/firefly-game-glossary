@@ -750,6 +750,14 @@ not be repurchased.
 Set Up Cards allow different ways to set up a game of Firefly (starting Jobs,
 Gear, map setup, etc.) Story Cards may override some Set Up Card steps.
 
+=== Series 4 Ship
+
+Series 4 ships have a larger cargo hold, better drive core, and a secured
+fuel exchange system (6 stash spaces for fuel only).
+
+They are pre-equipped with a set of starting *Ship Upgrades*. During Game
+Setup, you must pay the costs listed on the matching Ship Upgrade Cards.
+
 === Ship Card
 
 Your Ship Card has a hold and a *Stash* that are used to store and hide goods,
