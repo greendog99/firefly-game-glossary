@@ -27,6 +27,7 @@ blue:
 * [.expansion]#Kalidasa# — Kalidasa
 * [.expansion]#C&P# — Crime & Punishment
 * [.expansion]#P&BH# — Pirates & Bounty Hunters
+* [.expansion]#SF# — Still Flying
 
 Expansion rules that conflict with core game rules are called out explicitly.
 For example, [.expansion]#BlueSun# allows you to Mosey into a Reaver space,
@@ -211,6 +212,19 @@ buying Supply Cards, you may *Consider* 3 cards, and buy up to 2 of those cards.
 * Send your entire Crew on Shore Leave: Pay $100 per Crew, whether
 Disgruntled or not, including your Leader, and remove all Disgruntled tokens.
 
+=== Capers
+
+[.expansion]#SF# If you have a Deceptive Crew member, you can use a Deal action
+from any location to *Consider* 3 Capers and keep up to 2. If you draw the
+"Reshuffle" card while considering Capers, resolve it immediately.
+
+If you lose your Deceptive Crew, immediately discard all active Capers. If this
+happens in the middle of a Caper *Work Action*, you may attempt to complete the
+Job before discarding it.
+
+Capers count towars your *Job Card* hand limit and active job limit once
+started.
+
 === Cargo
 
 Shipping Jobs require you to pick up legal Cargo at one location (using a *Work
@@ -293,8 +307,9 @@ Fugitive.
 
 If you are the first player to successfully apprehend one of the targets, take
 the Bounty Card as usual. You may attempt to apprehend additional targets on
-future turns to add to the bounty stack if you wish. When you deliver the Bounty,
-you receive the Bounty reward for each Bound Fugitive delivered.
+future turns to add to the bounty stack if you wish. When you deliver the
+Bounty, you receive the Bounty reward for each Bound Fugitive delivered. Bounty
+bonuses are only paid once.
 
 You may steal a Cortex Alert Bounty from a rival player, following the same
 Boarding Test and Showdown as when stealing a single Bound Fugitive. In this
@@ -350,6 +365,15 @@ those cards.
 
 You may not have more than 3 inactive Jobs or Challenges in your hand at any
 time.
+
+=== Deceptive
+
+Only one Deceptive crew member may be in play at any time. Any time a Deceptive
+Crew is hired, any Deceptive crew already in play is removed from the game.
+
+[.expansion]#SF# When playing with the *Capers* Deck, any time a Deceptive Crew
+is hired, any Deceptive crew already in play is shuffled back into its supply
+deck.
 
 === Disgruntled
 
@@ -787,6 +811,21 @@ roll.
 Both players roll a die and add it to their chosen Skill. The higher total wins
 the Showdown. The Defender wins ties.
 
+=== Shuttles
+
+[.expansion]#SF# Whenever your Crew jumps ship (after being disgruntled twice,
+or being hired by another player while disgruntled) roll a die. If the result
+is lower than the number of Crew leaving, discard one ship upgrade with the
+[.keyword]#SHUTTLE# keyword.
+
+If a Shuttle lets you Work in an adjacent sector, you can only transport as
+many goods and passengers as fit in the Shuttle, cannot benefit from other Ship
+Upgrades, and can only carry 4 Crew on the Job.
+
+You can ignore *Alert Tokens* when using a Shuttle to Work in an adjacent sector.
+You may not use a Shuttle to take a Work Action in a sector occupied by a Reaver
+Cutter, or one occupied by the Alliance Cruiser if you are an *Outlaw Ship*.
+
 === Skill Test
 
 There are three types of skills: Fightimage:skill-fight.png[fit=line],
@@ -797,7 +836,7 @@ skill point when performing Skill Tests.
 
 image::skill-test.png[float=right,pdfwidth=50%]
 
-Skill Tests are written as a Skill icon, followed by a small die and a target
+Skill Tests are written as a Skill icon, followed by a die and a target
 number. Roll a die and add all your available Skill Points of the appropriate
 type. Then, compare your total to the list of possible results under the target
 number.
