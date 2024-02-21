@@ -1,8 +1,8 @@
 # Some variables to reuse later
 var:
-  base_font_color: 202020
+  base_font_color: 181818
   heading_font_color: 783818
-  font_size: 10
+  font_size: 9
 
 # Custom fonts
 font:
@@ -26,7 +26,7 @@ base:
 page:
   columns: 2
   column-gap: 0.3in
-  margin: [0.5in, 0.5in 0.5in, 0.5in]
+  margin: [0.5in, 0.5in, 0.5in, 0.5in]
 
 footer:
   recto: &shared_footer
