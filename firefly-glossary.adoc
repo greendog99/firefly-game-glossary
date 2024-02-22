@@ -1,5 +1,5 @@
 :doctitle: Firefly Unofficial Glossary
-:revnumber: 1.1
+:revnumber: 1.2
 :reproducible:
 :experimental:
 :imagesdir: images
@@ -92,7 +92,7 @@ See *Alliance Cruiser*.
 === Alliance Cruiser
 
 The Alliance Cruiser patrols Alliance space (blue-bordered sectors) searching
-for *Outlaw Ships*. It moves in 3 different ways:
+for *Outlaw Ships*. It moves in three ways:
 
 * When you draw the "`Alliance Cruiser`" Card, the Cruiser moves to your
 Sector.
@@ -109,8 +109,8 @@ has been resolved, it will not affect your ship again while the two ships
 remain together in the same sector.
 
 [.expansion]#Pirates#
-Any time the "`Alliance Cruiser`" Nav Card is drawn, return the 3 face-up
-*Bounty Cards* to the bottom of their deck and reveal 3 new ones.
+Any time the "`Alliance Cruiser`" Nav Card is drawn, return the face-up
+*Bounty Cards* to the bottom of their deck and reveal three new ones.
 
 === Boarding Test
 
@@ -201,7 +201,7 @@ The Buy Action may only be used at a *Supply Planet*. You may choose _one_ of
 these two options:
 
 * Purchase *Supply Cards*, Fuel (for $100 each), and Parts (for $300 each). When
-buying Supply Cards, you may *Consider* 3 cards, and buy up to 2 of those cards.
+buying Supply Cards, you may *Consider* three cards, and buy up to two of those cards.
 
 * Or, send your entire Crew on Shore Leave: Pay $100 per Crew, whether
 Disgruntled or not, including your Leader, and remove all Disgruntled tokens.
@@ -209,7 +209,7 @@ Disgruntled or not, including your Leader, and remove all Disgruntled tokens.
 === Capers
 
 [.expansion]#Flying# If you have a Deceptive Crew member, you may use a Deal
-action from any location to *Consider* 3 Capers and keep up to 2. If you draw
+action from any location to *Consider* three Capers and keep up to two. If you draw
 the "Reshuffle" card while considering Capers, resolve it immediately.
 
 If you lose your Deceptive Crew, immediately discard all active Capers. If this
@@ -238,7 +238,7 @@ your hold.
 image::challenge-card.png[float=right,pdfwidth=33%]
 
 [.expansion]#BlueSun# When *Dealing* with Mr. Universe, you *Consider* Big Damn
-Challenges instead of Jobs. These count towards your 3-card hand limit.
+Challenges instead of Jobs. These count towards your inactive job hand limit.
 
 Challenge Cards add extra requirements in order to complete the Job, but also
 provide increased rewards.
@@ -246,7 +246,7 @@ provide increased rewards.
 When starting a new Job with a *Work Action*, you may attach a Challenge card to
 the Job Card. Challenges may not be attached to Bounties or Piracy Jobs. Legal
 and Illegal Challenges may only be attached to Jobs of the same legality.
-Active Challenge Cards do not count toward your 3 Active Job limit.
+Active Challenge Cards do not count toward your active job limit.
 
 If a Challenge Card requires extra *Misbehaves*, that number of Misbehaves must
 be added at _each step_ of the Job that already requires Misbehaving, or during
@@ -258,16 +258,14 @@ working a Job with an attached Challenge, you lose Reputation with Mr Universe.
 
 === Consider
 
-When *Buying* cards or *Dealing* with Contacts, you may Consider 3 cards, and
-may take up to 2 of those cards:
+When *Buying* cards or *Dealing* with Contacts, you may Consider three cards, and
+may take up to two of those cards:
 
-* Look through the discard pile for the Supply Planet or Contact and choose up to
-3 cards to consider.
-* For each card less than 3 that you consider from the discard pile, you may draw 1
-card from the corresponding deck.
-* Once you have picked your 3 cards to consider, you may take up to 2 of them,
-paying if required.
-* Any unaccepted cards are placed in the appropriate discard pile.
+* Look through the relevant discard pile and select _up to_ three cards to consider.
+* If you selected fewer than three discards, you may draw from the corresponding deck
+until you have three cards to consider.
+* Once you have three cards to consider, you may take up to two of them, paying if required.
+* Any untaken cards are placed in the corresponding discard pile.
 
 === Contacts
 
@@ -333,12 +331,6 @@ As a free action, you may dismiss Crew in any *Planetary Sector* by placing
 them in their corresponding Supply Planet discard pile. You may not dismiss
 Crew to prevent them from being Killed. You may not dismiss your Leader.
 
-=== Crime
-
-Crime Jobs require you to travel to a destination and *Misbehave*.
-
-*Related Topics:* Work Action
-
 === Cruiser
 
 See *Alliance Cruiser*.
@@ -354,20 +346,20 @@ accept new jobs. If you are *Solid* with that Contact, you may also be able to
 sell *Cargo* and *Contraband* to them or perform other actions as part of your Deal
 Action.
 
-When accepting new jobs, you may *Consider* 3 cards, and may accept up to 2 of
+When accepting new jobs, you may *Consider* three cards, and may accept up to two of
 those cards.
 
-You may not have more than 3 inactive Jobs or Challenges in your hand at any time.
+You may not have more than three inactive Jobs or Challenges in your hand at any time.
 
 === Deceptive
 
 Only one Deceptive crew member may be in play at any time. When a Deceptive
-Crew is hired by any player, any other Deceptive crew already in play is
+Crew is hired by any player, any other Deceptive crew member already in play is
 removed from the game.
 
-[.expansion]#Flying# When playing with the *Capers* Deck, when a Deceptive Crew
-is hired by any player, any other Deceptive crew already in play is shuffled
-back into its supply deck.
+[.expansion]#Flying# When playing with the *Capers* Deck, any time a Deceptive
+Crew would be removed from the game _for any reason_, they should instead be
+shuffled back into their supply deck.
 
 === Disgruntled
 
@@ -512,8 +504,12 @@ See *Morality*.
 
 image::needs.png[float=right,pdfwidth=20%]
 
-You may not have more than 3 Job cards in your hand at any given time. You may
-discard any Job you don’t want to undertake.
+You may have up to three Job Cards in your hand. You may discard Jobs from your
+hand at any time.
+
+You may have up to three Job Cards in your Active Jobs area. You may _not_ discard
+Active Jobs. They must be completed, or can be lost if you gain a *Warrant* while
+working them.
 
 Job Cards contain the Job Type (shipping, transport, smuggling, or crime),
 location(s) where the job is to be performed, whether it is *Immoral* or *Illegal*,
@@ -652,8 +648,9 @@ Nav Cards describe obstacles and encounters in the 'Verse. When using the *Fly
 Action*, draw and resolve a Nav Card matching each sector entered (Alliance
 Space, Border Space, or Rim Space), before continuing to the next sector.
 
-When any Nav Deck becomes exhausted, or when a card marked "RESHUFFLE" is
-resolved, reshuffle the discard pile and remaining deck to form a new deck.
+When any Nav Deck becomes exhausted, or when a card marked
+[.keyword]#RESHUFFLE# is resolved, reshuffle the discard pile and remaining
+deck to form a new deck.
 
 === Operative's Corvette
 
@@ -665,7 +662,7 @@ the Reavers are driven off—move the Reaver ship to a Reaver Starting Sector.
 The Corvette may not end its move in the three Reaver Starting Sectors.
 
 Whenever the Operative’s Corvette enters a Sector with Reaver *Alert
-Tokens* image:alert-token-reaver.png[fit=line] , remove the tokens without
+Tokens* image:alert-token-reaver.png[fit=line], remove the tokens without
 resolving them.
 
 When the Operative's Corvette ends its movement in a Sector with an *Outlaw
@@ -726,7 +723,7 @@ Reaver Contact tile.
 When a Sector is occupied by a Reaver Cutter, no ship may Full Burn or Evade
 into that Sector, but may Mosey in if playing with [.expansion]#BlueSun#.
 
-The Reaver Cutters can move in 3 different ways:
+The Reaver Cutters can move in three ways:
 
 * When you draw the "`Reaver Cutter`" card, the Cutter moves to your Sector.
 
@@ -768,7 +765,7 @@ Gear, map setup, etc.) Story Cards may override some Set Up Card steps.
 === Series 4 Ship
 
 Series 4 ships have a larger cargo hold, better drive core, and a secured
-fuel exchange system (6 stash spaces for fuel only).
+fuel exchange system (six stash spaces for fuel only).
 
 They are pre-equipped with a set of starting *Ship Upgrades*. During Game
 Setup, you must pay the costs listed on the matching Ship Upgrade Cards.
@@ -811,7 +808,7 @@ is lower than the number of Crew leaving, discard one ship upgrade with the
 
 If a Shuttle lets you Work in an adjacent sector, you can only transport as
 many goods and passengers as fit in the Shuttle, cannot benefit from other Ship
-Upgrades, and can only carry 4 Crew on the Job.
+Upgrades, and can only carry four Crew on the Job.
 
 You can ignore *Alert Tokens* when using a Shuttle to Work in an adjacent sector.
 You may not use a Shuttle to take a Work Action in a sector occupied by a Reaver
@@ -822,7 +819,7 @@ Cutter, or one occupied by the Alliance Cruiser if you are an *Outlaw Ship*.
 There are three types of skills: Fightimage:skill-fight.png[fit=line],
 Techimage:skill-tech.png[fit=line] and
 Negotiateimage:skill-negotiate.png[fit=line]. You can find skill points on both
-*Crew* and *Gear* Cards. Each symbol shown on a Crew or Gear Card counts as 1
+*Crew* and *Gear* Cards. Each symbol shown on a Crew or Gear Card counts as one
 skill point when performing Skill Tests.
 
 image::skill-test.png[float=right,pdfwidth=50%]
@@ -932,7 +929,7 @@ See *Ship Upgrades*.
 The Uroboros Belt is an area of space around the Blue Sun star that is littered
 with mineral-rich asteroids and planetoids.
 
-You can start working a Job in the Uroboros Belt in any of the 4 Sectors that
+You can start working a Job in the Uroboros Belt in any of the four Sectors that
 picture Uroboros asteroids.
 
 Uroboros Sectors are not considered *Planetary Sectors* unless they also contain
