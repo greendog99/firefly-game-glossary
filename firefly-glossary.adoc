@@ -400,9 +400,9 @@ Certain ships have special Drive Cores which cannot be replaced.
 
 === Evade
 
-When a *Nav Card* result says to Evade, move your ship to an adjacent sector. Do
-not draw an additional Nav Card. No further movement is possible. If you have
-another (non-Fly) *Action* to take, you may do so.
+When told to Evade, move your ship to an adjacent sector. Do not draw a Nav
+Card. No further movement is possible. If you have another (non-Fly) *Action*
+left to take, you may do so.
 
 You may never Evade into a sector that is occupied by a Reaver Cutter.
 
@@ -621,7 +621,8 @@ Misbehaving outcomes:
 * _Proceed_ — continue to work the job.
 * _Attempt Botched_ — you've failed this attempt but may attempt the job again in
 the future. Leave the Job Card in the Active Jobs area and end your Work
-Action.
+Action. Discard all completed and failed Misbehave cards—you will need to start
+from scratch on the next attempt with new Misbehave cards.
 * _Warrant Issued_ — you've failed the job and attracted the authorities. Place a
 *Warrant* Token on your Ship Card. Discard the job to its Contact Deck and end
 your Work Action.
@@ -989,8 +990,8 @@ After successfully completing a job:
 
 * Take the listed payout from the bank, including any bonuses from the Job
 Card, Crew Cards, and Story Card.
-* Pay every crew member their cut, whether they worked on the job or not. Any
-Crew member you choose not to pay becomes *Disgruntled*.
+* Pay every crew member the value listed on their card, whether they worked
+on the job or not. Any Crew member you choose not to pay becomes *Disgruntled*.
 
 * To show you are *Solid* with a Contact, take the completed Job Card and slide
 it under your Ship Card so the name of the Contact is visible. If you were
