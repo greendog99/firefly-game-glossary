@@ -16,9 +16,8 @@ is a reference to be used during play to assist with specific questions.
 
 Phrases in *bold* refer to other relevant topics within the glossary.
 Additional relevant topics which aren't mentioned in the main text are listed
-at the end of the entry under "`Related Topics`".
-
-_Italicized_ phrases indicate important details that should not be overlooked.
+at the end of the entry under "`*Related Topics*`". _Italicized_ phrases
+indicate important details that should not be overlooked.
 
 Some topics which apply only to expansions are noted with the expansion name in
 blue:
@@ -41,37 +40,43 @@ image::alert-tokens.png[float=right,pdfwidth=33%]
 [.expansion]#BlueSun# [.expansion]#Kalidasa# Alert Tokens represent a higher
 level of Reaver or Alliance activity within a sector. Multiple tokens of the
 same or different type may coexist in the same sector. The three sectors of
-Reaver Space contain a permanent Reaver Alert Token.
+Reaver Space contain a permanent Reaver Alert Token, and additional tokens
+can be added to these sectors as well.
 
 Each time a *Reaver Cutter* moves, place a Reaver Alert Token in the vacated
 sector. Alliance Alert Tokens are only placed by specific cards.
 
-If you move into a Sector containing Alert Tokens:
+If you move into a Sector containing Alert Tokens, immediately resolve them
+(before drawing a Nav Card). If both Alert Token types are present, begin by
+just resolving the Alliance tokens:
 
-1. Before drawing a *Nav Card*, roll a die. This die roll is not considered a Test
-and cannot be modified.
+1. Roll a die. This roll is not considered a Test and cannot be modified.
 
-2. If the roll is less than or equal to the number of Alert Tokens, the player to
-your right moves a ship to the sector as follows:
+2. If the roll is less than or equal to the number of Alert Tokens, you've been
+   spotted. The player to your right moves a ship to the sector as follows:
 
 * image:alert-token-reaver.png[fit=line] _Reaver Token_ — Move a Reaver Cutter.
 
-* image:alert-token-alliance.png[fit=line] _Alliance Token in Alliance Sector_ —
-Move the Alliance Cruiser or the Operative's Corvette.
+* image:alert-token-alliance.png[fit=line] _Alliance Token in Alliance Sector_
+— Move the *Alliance Cruiser* or the *Operative's Corvette*.
 
-* image:alert-token-alliance.png[fit=line] _Alliance Token in Border or Rim Sector_ —
-Move the Operative's Corvette.
+* image:alert-token-alliance.png[fit=line] _Alliance Token in Border or Rim
+Sector_ — Move the Operative's Corvette.
 
-3. If needed, resolve the *Alliance Contact* or *Corvette Contact* tile if you
-   are an *Outlaw Ship*. This may end your *Fly Action*, in which case do not
-   draw a Nav Card if you were Full Burning.
+3. If the Operative's Corvette arrives, any Reaver Alert Tokens in the sector
+   are immediately removed.
 
-4. Remove all Alert Tokens from the sector, regardless of the die roll.
+4. If the Alliance Cruiser or Operative's Corvette arrives and you are an
+   *Outlaw Ship*, resolve the *Alliance Contact* or *Corvette Contact* tile. If
+   this ends your *Fly Action*, do not draw a Nav Card.
 
-If both Alliance and Reaver Tokens are present, resolve just the Alliance
-Tokens first. If your die roll succeeds and the Alliance is not summoned,
-proceed to resolve the Reaver Tokens. In either case, remove all Alert Tokens
-when finished.
+5. Remove all resolved Alert Tokens from the sector, regardless of the die roll.
+
+6. If you resolved Alliance Alert Tokens but Reaver Alert Tokens remain in the
+   sector, now resolve those, following the steps above again.
+
+7. If you Full Burned into the sector, and nothing above ended your Fly Action,
+   draw a Nav Card as usual, and continue your turn.
 
 === Alliance Alert Cards
 
@@ -724,6 +729,10 @@ Reaver Contact tile.
 When a Sector is occupied by a Reaver Cutter, no ship may Full Burn or Evade
 into that Sector, but may Mosey in if playing with [.expansion]#BlueSun#.
 
+[.expansion]#BlueSun# Each time a Reaver Cutter moves, place a Reaver *Alert
+Token* in the vacated sector, including the sectors with pre-printed Alert
+Tokens.
+
 The Reaver Cutters can move in three ways:
 
 * When you draw the "`Reaver Cutter`" card, the Cutter moves to your Sector.
@@ -738,10 +747,6 @@ Cutter to a sector, immediately resolve Reaver Contact instead.
 
 If the *Operative’s Corvette* is ever in the same Sector as a Reaver Cutter, the
 Reavers are driven off. Move the Reaver ship to a Reaver Starting Sector.
-
-[.expansion]#BlueSun# Each time a Reaver Cutter moves, place a Reaver *Alert
-Token* in the vacated sector, including the sectors with pre-printed Alert
-Tokens.
 
 === Reputation
 
