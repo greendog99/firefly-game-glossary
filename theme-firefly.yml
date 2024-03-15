@@ -2,7 +2,7 @@
 var:
   base_font_color: 181818
   heading_font_color: 783818
-  font_size: 9
+  font_size: 10
 
 # Custom fonts
 font:

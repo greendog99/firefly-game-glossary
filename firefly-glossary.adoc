@@ -83,8 +83,8 @@ Sector_ — Move the Operative's Corvette.
 image::priority-alert.png[float=right,pdfwidth=33%]
 
 [.expansion]#Crime# Some Set Up and Story Cards direct you to start the game
-with an Alert in Play. There are also Misbehave Cards that direct you to put an
-Alert into play.
+with an Alliance Alert Card in Play. There are also Misbehave Cards that direct
+you to put an Alert Card into play.
 
 When an Alert Card is in play, there is a new special rule that affects all the
 crews working the ‘Verse. When an Alert Card leaves play, return it to the
@@ -119,6 +119,8 @@ Any time the "`Alliance Cruiser`" Nav Card is drawn, return the face-up
 
 === Boarding Test
 
+image::boarding-test.png[float=right,pdfwidth=33%]
+
 [.expansion]#Pirates# You may need to pass a Boarding Test when working a Piracy
 Job or a Bounty against a rival player's ship.
 
@@ -129,14 +131,17 @@ your Work Action ends.
 
 === Bonus Opportunity
 
+image::bonus-opportunity.png[float=right,pdfwidth=33%]
+
 [.expansion]#Kalidasa# Some *Job Cards* include Bonus Opportunities. These are
 _optional_ job tasks which can be completed after starting the Job, but before
 completing the Job, for an additional reward. Use a Work Action to complete a
 Bonus Opportunity.
 
 When a bonus opportunity is completed, Place a Completed Token on the Job Card
-and take the listed Bonus reward. You do _not_ have to pay your crew a cut of
-the Bonus.
+and take the listed Bonus reward.
+
+You do _not_ have to pay your crew a cut of the Bonus.
 
 === Botched
 
@@ -147,6 +152,10 @@ Jobs area and end your Work Action.
 If a *Story Goal* attempt results in "`Attempt Botched`", you've failed this
 attempt but may attempt the goal again next turn.
 
+Discard all completed and failed *Misbehave Cards*—you will need to start from
+scratch on the next attempt with new Misbehave Cards.
+
+[%breakable]
 === Bounty Cards
 
 image::wanted-card.png[float=right,pdfwidth=33%]
@@ -159,7 +168,7 @@ Two *Work Actions* are needed to complete a Bounty Job—one to capture the
 Fugitive, and one deliver them. To capture, you must be in the same Sector as
 the fugitive, who may be:
 
-* On a rival player's ship, as a Crew member, or already captured and Bound by Law.
+* On a rival player's ship as a Crew member, or already captured and Bound by Law.
 You must pass a *Boarding Test* followed by a Showdown against the entire
 rival Crew.
 
@@ -171,8 +180,8 @@ The Fugitive uses their best available Skill.
 without a Showdown. However, all members of your Crew except your Leader become
 disgruntled.
 
-The *Showdown* outcomes are shown on the Bounty Card. Once apprehended, take
-the Fugitive's Crew Card and the Bounty Card. These do not count against your
+*Showdown* outcomes are shown on the Bounty Card. Once apprehended, take
+the Fugitive's Crew Card and the Bounty Card. These do not count toward your
 Crew or Job Limits or Cargo capacity (do not take a Fugitive Token).
 
 If you captured an _already Bound_ Fugitive from a Rival, you may choose to
@@ -183,16 +192,17 @@ both cases, return the Bounty Card to the bottom of its deck.
 If *Reaver Contact* kills your Fugitives, any captured Fugitives on your ship are
 removed from the game along with their Bounty Cards.
 
-When a Bounty is delivered, take your reward and pay your crew (or Disgruntle
-them), as with any other Job. Then, remove the Bounty Card and Crew Card from
-the game.
+When a Bounty is delivered, take your reward and pay or Disgruntle your crew as
+with any other Job. Then remove the Bounty Card and Crew Card from the game.
 
-Each time the "`*Alliance Cruiser*`" Nav Card is drawn, return the 3 face-up
-Bounties to the bottom of the Bounty Deck and reveal 3 new Bounties.
+Each time the "`*Alliance Cruiser*`" Nav Card is drawn, return the face-up
+Bounties to the bottom of the Bounty Deck and reveal 3 new ones.
 
 *Related Topics*: Cortex Alert
 
 === Bribes
+
+image::bribes.png[float=right,pdfwidth=38%]
 
 Some Negotiateimage:skill-negotiate.png[fit=line] *Skill Tests* say "`Bribes`"
 after their number. _Before_ you roll a die, you may choose to pay Bribes.
@@ -213,15 +223,16 @@ Disgruntled or not, including your Leader, and remove all Disgruntled tokens.
 
 === Capers
 
-[.expansion]#Flying# If you have a Deceptive Crew member, you may use a Deal
-action from any location to *Consider* three Capers and keep up to two. If you draw
-the "Reshuffle" card while considering Capers, resolve it immediately.
+[.expansion]#Flying# If you have a *Deceptive* Crew member, you may use a *Deal
+Action* from any location to *Consider* three Capers Cards and keep up to two.
+If you draw the "Reshuffle" card while considering Capers, resolve it
+immediately.
 
 If you lose your Deceptive Crew, immediately discard all active Capers. If this
 happens in the middle of a Caper *Work Action*, you may attempt to complete the
 Job before having to discard it.
 
-Capers count towars your *Job Card* hand limit and active job limit once
+Capers count towards your *Job Card* hand limit and active job limit once
 started.
 
 === Cargo
@@ -248,10 +259,11 @@ Challenges instead of Jobs. These count towards your inactive job hand limit.
 Challenge Cards add extra requirements in order to complete the Job, but also
 provide increased rewards.
 
-When starting a new Job with a *Work Action*, you may attach a Challenge card to
-the Job Card. Challenges may not be attached to Bounties or Piracy Jobs. Legal
-and Illegal Challenges may only be attached to Jobs of the same legality.
-Active Challenge Cards do not count toward your active job limit.
+When starting a new Job with a *Work Action*, you may attach a Challenge card
+from your hand to the Job Card. Challenges may not be attached to Bounties or
+Piracy Jobs. Legal and Illegal Challenges may only be attached to Jobs of the
+same legality. Active Challenge Cards do not count toward your active job
+limit.
 
 If a Challenge Card requires extra *Misbehaves*, that number of Misbehaves must
 be added at _each step_ of the Job that already requires Misbehaving, or during
@@ -269,8 +281,8 @@ may take up to two of those cards:
 * Look through the relevant discard pile and select _up to_ three cards to consider.
 * If you selected fewer than three discards, you may draw from the corresponding deck
 until you have three cards to consider.
-* Once you have three cards to consider, you may take up to two of them, paying if required.
-* Any untaken cards are placed in the corresponding discard pile.
+* Once you have three cards to consider, you may keep up to two of them, paying if required.
+* Any unkept cards are placed in their corresponding discard pile.
 
 === Contacts
 
@@ -301,13 +313,13 @@ Fugitive.
 If you are the first player to successfully apprehend one of the targets, take
 the Bounty Card as usual. You may attempt to apprehend additional targets on
 future turns to add to the bounty stack if you wish. When you deliver the
-Bounty, you receive the Bounty reward for each Bound Fugitive delivered. Bounty
+Bounty, you receive the Bounty reward for each Fugitive delivered. Bounty
 bonuses are only paid once.
 
 You may steal a Cortex Alert Bounty from a rival player, following the same
-Boarding Test and Showdown as when stealing a single Bound Fugitive. In this
-case, you steal _all_ Bound Crew Cards with the Bounty Card, as part of a
-single Work Action.
+Boarding Test and Showdown as when stealing a regular Bounty. In this case, you
+steal _all_ Bound Crew Cards with the Bounty Card, as part of a single Work
+Action.
 
 *Related Topics:* Bounty Cards
 
@@ -328,9 +340,12 @@ Credits are usually gained by completing jobs, selling *Cargo* or *Contraband* t
 Crew Cards can be found at *Supply Planets* along with Gear and Ship Upgrades,
 and can be acquired with a *Buy Action* by paying the fee shown on the card.
 
+image::professions.png[float=right,pdfwidth=38%]
+
 Some Crew have professions which may help accomplish Jobs, Goals, or other
-effects. Professions include: Soldier, Merc, Pilot, Mechanic, Companion,
-Grifter, Medic, and Lawman.
+effects. Professions include: [.keyword]#SOLDIER#, [.keyword]#MERC#,
+[.keyword]#PILOT#, [.keyword]#MECHANIC#, [.keyword]#COMPANION#,
+[.keyword]#GRIFTER#, [.keyword]#MEDIC#, and [.keyword]#LAWMAN#.
 
 As a free action, you may dismiss Crew in any *Planetary Sector* by placing
 them in their corresponding Supply Planet discard pile. You may not dismiss
