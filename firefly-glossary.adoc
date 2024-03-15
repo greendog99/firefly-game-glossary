@@ -392,9 +392,9 @@ If a Disgruntled Crew member receives a second Disgruntled Token, they jump
 ship—return the Crew to the appropriate discard pile.
 
 If your *Leader* ever receives a second Disgruntled token, they’ve lost
-confidence in their Crew and fire them. Discard all your Crew, except for your
-Leader, to their Supply Deck discard piles. Remove the Disgruntled token from
-your Leader.
+confidence in their Crew and fire them all. Discard all your Crew, except for
+your Leader, to their Supply Deck discard piles. Remove the Disgruntled token
+from your Leader.
 
 You may, on your turn, hire Disgruntled Crew away from another player in your
 Sector by paying the Crew's hiring fee to the bank. Take the Crew Card and
@@ -447,6 +447,8 @@ When a sector is occupied by a *Reaver Cutter*, no ship may Full Burn or
 Fuel is needed in order to Full Burn during the *Fly Action*. Fuel can be
 purchased at any *Supply Planet* as part of a *Buy Action*. You may dump Fuel
 at any time on your turn to make space in your hold.
+
+*Related Topics:* Drive Core, Heavy Load
 
 === Full Burn
 
@@ -509,7 +511,7 @@ Unless otherwise noted, players’ ships start at their Haven.
 image::heavy-load.png[float=right,pdfwidth=20%]
 
 Some Jobs require transporting Heavy Loads. If you have one of these Jobs
-active, you must spend one extra *Fuel* during a Full Burn. The effect of
+active, you must spend one extra *Fuel* during a *Full Burn*. The effect of
 multiple Heavy Load tokens is cumulative.
 
 If your *Drive Core* doesn't normally require Fuel to Full Burn, you must still
@@ -524,17 +526,17 @@ See *Morality*.
 
 image::needs.png[float=right,pdfwidth=20%]
 
-You may have up to three Job Cards in your hand. You may discard Jobs from your
-hand at any time.
+You may have up to three inactive Job Cards in your hand. You may discard Jobs
+from your hand at any time.
 
-You may have up to three Job Cards in your Active Jobs area. You may _not_ discard
-Active Jobs. They must be completed, or can be lost if you gain a *Warrant* while
-working them.
+You may have up to three active Job Cards in your Active Jobs area. You may
+_not_ discard Active Jobs. They must be completed, or can be lost if you gain a
+*Warrant* while working them.
 
-Job Cards contain the Job Type (shipping, transport, smuggling, or crime),
-location(s) where the job is to be performed, whether it is *Immoral* or *Illegal*,
-if *Misbehaving* is required, *Skills* and *Keywords* needed to Work the
-job, the job's payout, and more.
+Job Cards explain the Job Type (shipping, transport, smuggling, or crime),
+location(s) where the job is to be performed, whether it is *Immoral* or
+*Illegal*, if *Misbehaving* is required, *Skills* and *Keywords* needed to Work
+the job, the job's payout, and more.
 
 *Related Topics:* Bonus Opportunity, Work Action
 
@@ -545,10 +547,14 @@ Action* if you still have range left on your *Drive Core*.
 
 === Keywords
 
-Many *Gear Cards* and some *Crew* have green Keywords on their cards. These
-include: [.keyword]#FIREARM#, [.keyword]#SNIPER RIFLE#, [.keyword]#EXPLOSIVES#,
+image::vera.png[float=right,pdfwidth=33%]
+
+Some *Gear Cards* and *Crew Cards* have green Keywords on them. These include:
+[.keyword]#FIREARM#, [.keyword]#SNIPER RIFLE#, [.keyword]#EXPLOSIVES#,
 [.keyword]#HACKING RIG#, [.keyword]#FAKE ID#, [.keyword]#TRANSPORT#, and
 [.keyword]#FANCY DUDS#.
+
+image::proceed.png[float=left,pdfwidth=37%]
 
 Keywords sometimes allow you to bypass a *Misbehave Card* entirely or may be
 a prerequisite for some Misbehave options or Job Cards.
@@ -565,13 +571,15 @@ During a *Work Action*, you may only kill Crew that were participating in the
 Job, not those on your ship.
 
 The *Medic* profession grants a chance to save the Crew and return them to the
-ship for the remainder of the turn.
+ship for the rest of the turn.
 
 === Kosherized rules
 
-Some Fight *Skill Tests* will say "`Kosherized`" after the skill point number.
-In Kosherized fights, you may not add any Fight
-Skillimage:skill-fight.png[fit=line] from *Gear* to your total: only the
+image::kosherized.png[float=right,pdfwidth=40%]
+
+Some Fightimage:skill-fight.png[fit=line] *Skill Tests* will say "`Kosherized`"
+after the skill point number. In Kosherized fights, you may not add any
+image:skill-fight.png[fit=line] from *Gear* to your total: only the
 image:skill-fight.png[fit=line] listed on your *Crew Cards* may be used.
 
 === Lawman
