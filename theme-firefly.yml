@@ -2,7 +2,10 @@
 var:
   base_font_color: 181818
   heading_font_color: 783818
-  font_size: 9.47
+  # Letter:
+  #font_size: 9.47
+  # A4:
+  font_size: 9.9
 
 # Custom fonts
 font:
