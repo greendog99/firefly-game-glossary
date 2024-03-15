@@ -647,15 +647,20 @@ The bottom of some Misbehave Cards list a Person, Profession, Item, or
 Misbehaving outcomes:
 
 * _Proceed_ — continue to work the job.
+
 * _Attempt Botched_ — you've failed this attempt but may attempt the job again in
 the future. Leave the Job Card in the Active Jobs area and end your Work
 Action. Discard all completed and failed Misbehave cards—you will need to start
 from scratch on the next attempt with new Misbehave cards.
+
 * _Warrant Issued_ — you've failed the job and attracted the authorities. Place a
 *Warrant* Token on your Ship Card. Discard the job to its Contact Deck and end
-your Work Action.
+your Work Action. Lose any repuation you had with the job owner and with Harken.
+Kill a crew if you were working a job for Niska.
 
 === Morality
+
+image::illegal-immoral.png[float=right,pdfwidth=33%]
 
 Some Jobs are Immoral and some are Morally Subjective. A small red tab on the
 *Job Card* below the Legal/Illegal tab notes the Job's morality. If nothing is
@@ -663,7 +668,7 @@ listed, the job is Moral.
 
 Whenever you complete an Immoral Job, all your Moral Crew become *Disgruntled*.
 
-[.expansion]#Pirates# Working on a Subjectively Moral job against a rival ship
+[.expansion]#Pirates# Working on a Subjectively Moral job against a ship
 with a Moral Leader makes the job Immoral: your Moral Crew do not like to
 target other Moral Leaders.
 
@@ -830,12 +835,12 @@ the Showdown. The Defender wins ties.
 
 === Shuttles
 
-[.expansion]#Flying# Whenever your Crew jumps ship (after being disgruntled twice,
-or being hired by another player while disgruntled) roll a die. If the result
-is lower than the number of Crew leaving, discard one ship upgrade with the
-[.keyword]#SHUTTLE# keyword.
+[.expansion]#Flying# Whenever your Crew jumps ship (after being *Disgruntled*
+twice or being hired by another player while disgruntled) roll a die. If the
+result is lower than the number of Crew leaving, discard one *Ship Upgrade*
+with the [.keyword]#SHUTTLE# keyword—they took off in your shuttle.
 
-If a Shuttle lets you Work in an adjacent sector, you can only transport as
+If a Shuttle lets you *Work* in an adjacent sector, you can only transport as
 many goods and passengers as fit in the Shuttle, cannot benefit from other Ship
 Upgrades, and can only carry four Crew on the Job.
 
@@ -845,11 +850,11 @@ Cutter, or one occupied by the Alliance Cruiser if you are an *Outlaw Ship*.
 
 === Skill Test
 
-There are three types of skills: Fightimage:skill-fight.png[fit=line],
+You can find Fightimage:skill-fight.png[fit=line],
 Techimage:skill-tech.png[fit=line] and
-Negotiateimage:skill-negotiate.png[fit=line]. You can find skill points on both
-*Crew* and *Gear* Cards. Each symbol shown on a Crew or Gear Card counts as one
-skill point when performing Skill Tests.
+Negotiateimage:skill-negotiate.png[fit=line] skill points on both *Crew* and
+*Gear* Cards. Each symbol shown counts as one skill point when performing Skill
+Tests.
 
 image::skill-test.png[float=right,pdfwidth=50%]
 
@@ -868,10 +873,14 @@ Solid. Slide the completed Job Card under your Ship Card so the name of the
 Contact is visible. If you complete a job and are already Solid with that
 Contact, remove the newly completed job card from the game.
 
-When you are Solid, Contacts may buy Cargo and Contraband from you when
-dealing with them, and can offer other benefits.
+image::amnon-duul.png[float=right,pdfwidth=62%]
 
-If you receive a *Warrant* while working a Job for a Contact, any reputation
+When you are Solid, Contacts may buy Cargo and Contraband from you when dealing
+with them, as listed in the top-right of their card, and can offer other
+benefits. Contacts will not _sell_ you Cargo or Contraband unless their card
+says "`Selling`".
+
+If you receive a *Warrant* while working a Job, any Solid reputation
 with that Contact is lost along with any and all benefits for being Solid.
 Remove from the game the completed Job Card used to track your Solid reputation
 with the contact. You may prove yourself useful again by completing another Job
@@ -905,6 +914,8 @@ If the Story Card has numbered *Story Goals* you must complete these goals in
 order. In other cases, there may only be a single goal needed to win.
 
 === Story Goals
+
+image::goal.png[float=right,pdfwidth=25%]
 
 If a Story Goal calls for a *Skill Test*, you must use a *Work Action* to
 advance the Goal; otherwise, the Goal is simply achieved when you meet its
@@ -984,6 +995,8 @@ If a Crew with a Wanted Token is dismissed, discard the Wanted Token.
 
 === Warrant
 
+image::warrant.png[float=right,pdfwidth=25%]
+
 If you receive a Warrant while *Working* a *Job*, discard the Job, returning it
 to the discard pile of the issuing Contact. Any *Solid* Reputation with that
 Contact is lost.
@@ -991,6 +1004,8 @@ Contact is lost.
 Receiving a Warrant for _any reason_ will cause reputation loss with Harken,
 regardless of what contact the Job you were working came from. You may not
 become Solid with Harken while you have a Warrant.
+
+You must kill a Crew if you receive a Warrant while working a job for Niska.
 
 === Work Action
 
@@ -1008,7 +1023,7 @@ Delivery jobs.
 * Place the Job Card face-up in your Active Jobs area, if not already started.
 You may not have more than three active Jobs.
 * Select which *Crew* will participate and assign *Gear* to them as desired. Crew and
-gear left on the ship may not be used during the attempt.
+gear left on the ship may not be used during the Job.
 * Follow the instructions on the Job Card to attempt to work the job.
 
 If, while working a Job, all your Crew is killed or returns to the ship, you’ve
@@ -1029,7 +1044,7 @@ If you have nothing to do and your ship is in a *Planetary Sector*, you may
 instead use your entire Work Action to *Make-Work* at the planet: take $200
 from the bank instead of Working a Job.
 
-_Note:_ if you’ve Loaded Cargo, Contraband, Passengers or Fugitives on to your
+If you’ve Loaded Cargo, Contraband, Passengers or Fugitives on to your
 ship as part of a Job and subsequently lose them, you’re on your own to replace
 them. You can’t return to the Pick Up location to get more.
 
