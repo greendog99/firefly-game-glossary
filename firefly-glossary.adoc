@@ -1,5 +1,5 @@
 :doctitle: Firefly Unofficial Glossary
-:revnumber: 1.3
+:revnumber: 1.4
 :reproducible:
 :experimental:
 :imagesdir: images
@@ -131,7 +131,8 @@ image::boarding-test.png[float=right,pdfwidth=33%]
 [.expansion]#Pirates# You may need to pass a Boarding Test when working a Piracy
 Job or a Bounty against a rival player's ship.
 
-Perform a *Skill Test* using either your Techimage:skill-tech.png[fit=line] or
+Perform a *Skill Test* with a target value of 6 using either your
+Techimage:skill-tech.png[fit=line] or
 Negotiateimage:skill-negotiate.png[fit=line] skill for the Boarding Test. If
 you succeed, proceed with your action. If you fail, the attempt is over and
 your Work Action ends.
