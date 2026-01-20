@@ -1,5 +1,6 @@
 #!/bin/bash
 
+export PATH="/opt/homebrew/opt/ruby/bin:$PATH"
 export GS=/opt/homebrew/bin/gs
 themes=(letter a4)
 
