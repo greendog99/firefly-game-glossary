@@ -224,7 +224,7 @@ will be your Roll + Skill + Bribes.
 The Buy Action may only be used at a *Supply Planet*. You may choose _one_ of
 these two options:
 
-* Purchase *Supply Cards*, Fuel (for $100 each), and Parts (for $300 each). When
+* Purchase Supply Cards, Fuel (for $100 each), and Parts (for $300 each). When
 buying Supply Cards, you may *Consider* three cards, and buy up to two of those cards.
 
 * Or, send your entire Crew on Shore Leave: Pay $100 per Crew, whether
@@ -529,6 +529,20 @@ multiple Heavy Load tokens is cumulative.
 
 If your *Drive Core* doesn't normally require Fuel to Full Burn, you must still
 pay the Heavy Load penalty.
+
+=== Illegal Jobs
+
+Every *Job Card* has a tab marking it as Legal or Illegal. Illegal Jobs
+require you to *Misbehave*: the number of Misbehave Cards pictured on the Job
+shows how many you must draw.
+
+Smuggling Jobs are always Illegal, and Transporting *Fugitives* is Illegal.
+Carrying *Contraband* or Fugitives makes you an *Outlaw Ship*.
+
+*Lawmen* will never work an Illegal Job—they remain onboard your ship instead.
+
+[.expansion]#BlueSun# Illegal *Challenge Cards* may only be attached to
+Illegal Jobs.
 
 === Immoral Jobs
 
@@ -865,7 +879,7 @@ You can ignore *Alert Tokens* when using a Shuttle to Work in an adjacent sector
 You may not use a Shuttle to take a Work Action in a sector occupied by a Reaver
 Cutter, or one occupied by the Alliance Cruiser if you are an *Outlaw Ship*.
 
-=== Skill Test
+=== Skills & Skill Tests
 
 You can find Fightimage:skill-fight.png[fit=line],
 Techimage:skill-tech.png[fit=line] and
