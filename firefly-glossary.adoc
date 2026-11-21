@@ -197,8 +197,9 @@ deliver the Bounty yourself, or to rescue the Fugitive by either adding them to
 your Crew for free or returning them to their Supply Planet's discard pile. In
 both cases, return the Bounty Card to the bottom of its deck.
 
-If *Reaver Contact* kills your Fugitives, any captured Fugitives on your ship are
-removed from the game along with their Bounty Cards.
+If *Reaver Contact* kills your Passenger and Fugitive tokens, any Bound
+Fugitives on your ship are also removed from the game, along with their
+Bounty Cards.
 
 When a Bounty is delivered, take your reward and pay or Disgruntle your crew as
 with any other Job. Then remove the Bounty Card and Crew Card from the game.
