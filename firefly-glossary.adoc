@@ -478,10 +478,10 @@ you may do so.
 Gear is weapons, equipment, clothing, vehicles or anything else your *Crew* might
 carry or equip to help overcome obstacles. *Ship Upgrades* are not Gear.
 
-When conducting a *Work Action*, you can assign one piece of Gear to each Crew
-member. Leave any unassigned Gear on your ship until the Work Action is
-finished. Gear not carried by a Crew may not be used in any way during a Work
-Action.
+Each Crew may carry one piece of Gear at a time. You may own any amount of
+Gear, but Gear no Crew is carrying stays onboard your ship and can't be used in
+any way, including for Nav Card tests. You may change who carries what freely,
+except during a *Work Action*.
 
 Some Gear provides additional Skill Points, *Keywords* or other special
 abilities.
@@ -498,15 +498,14 @@ and may mix different Goods.
 
 === Havens
 
-[.expansion]#BlueSun# Some Story Cards will direct you to Choose Havens during
-Set Up. Each Story Card will detail the Havens’ importance and which planets
-may or may not be eligible for selection.
+[.expansion]#BlueSun# [.expansion]#Pirates# Some Story Cards direct you to
+choose Havens during Set Up: planets of special importance to each player. The
+Story Card says what your Haven does and which planets are eligible.
 
-During Set Up, after choosing Leaders, players place their Haven tokens instead
-of placing their ships. Haven Tokens must be placed in Sectors containing
-planets but may not be placed at Supply or Contact planets. Players may not
-place their Haven Token in a Sector that is already another player’s Haven.
-Unless otherwise noted, players’ ships start at their Haven.
+After choosing Leaders, place your Haven token instead of your ship. Your Haven
+must be in a *Planetary Sector*, but not at a Supply or Contact planet or
+another player's Haven. Unless the Story Card says otherwise, your ship starts
+at your Haven.
 
 === Heavy Load
 
@@ -754,9 +753,11 @@ Test* followed by a *Showdown*.
 === Planetary Sector
 
 A Planetary Sector is any sector that contains a named planet. The Space Bazaar
-and Cortex Relay 7 count as planets.
+and Cortex Relays count as planets. The Alliance Cruiser and asteroid sectors
+without a named planet, including *Uroboros Belt* sectors, don't.
 
-*Related Topics:* Uroboros Belt
+You may *Make-Work*, dismiss Crew, and drop off Passengers and Fugitives only
+in a Planetary Sector.
 
 === Reaver Contact
 
