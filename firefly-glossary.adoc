@@ -206,7 +206,7 @@ with any other Job. Then remove the Bounty Card and Crew Card from the game.
 Each time the "`*Alliance Cruiser*`" Nav Card is drawn, return the face-up
 Bounties to the bottom of the Bounty Deck and reveal 3 new ones.
 
-*Related Topics*: Cortex Alert
+*Related Topics:* Cortex Alert
 
 === Bribes
 
@@ -751,7 +751,7 @@ Test* followed by a *Showdown*.
 A Planetary Sector is any sector that contains a named planet. The Space Bazaar
 and Cortex Relay 7 count as planets.
 
-*Related Items:* Uroboros Belt
+*Related Topics:* Uroboros Belt
 
 === Reaver Contact
 
@@ -1063,5 +1063,5 @@ If you’ve Loaded Cargo, Contraband, Passengers or Fugitives on to your
 ship as part of a Job and subsequently lose them, you’re on your own to replace
 them. You can’t return to the Pick Up location to get more.
 
-*Related Topics:* Morality, Misbehave.
+*Related Topics:* Morality, Misbehave Cards
 
