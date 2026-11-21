@@ -462,16 +462,6 @@ at any time on your turn to make space in your hold.
 
 *Related Topics:* Drive Core, Heavy Load
 
-=== Full Burn
-
-See *Fly Action*.
-
-=== Full Stop
-
-If a card instructs you to "`Full Stop`", your ship stops in its current
-Sector. No further movement is possible. If you have another Action to take,
-you may do so.
-
 === Fugitives
 
 Some transport Jobs require you to pick up Fugitives at one location (using a
@@ -482,6 +472,16 @@ You may drop off Fugitives in any sector with a Planet at any time on your turn
 to make space in your hold.
 
 *Related Topics:* Passengers
+
+=== Full Burn
+
+See *Fly Action*.
+
+=== Full Stop
+
+If a card instructs you to "`Full Stop`", your ship stops in its current
+Sector. No further movement is possible. If you have another Action to take,
+you may do so.
 
 === Gear Cards
 
@@ -806,11 +806,6 @@ certain Crew Cards.
 If your crew has any of their gear Seized, it is removed from the game and may
 not be repurchased.
 
-=== Set Up Cards
-
-Set Up Cards allow different ways to set up a game of Firefly (starting Jobs,
-Gear, map setup, etc.) Story Cards may override some Set Up Card steps.
-
 === Series 4 Ship
 
 Series 4 ships have a larger cargo hold, better drive core, and a secured
@@ -818,6 +813,11 @@ fuel exchange system (six stash spaces for fuel only).
 
 They are pre-equipped with a set of starting *Ship Upgrades*. During Game
 Setup, you must pay the costs listed on the matching Ship Upgrade Cards.
+
+=== Set Up Cards
+
+Set Up Cards allow different ways to set up a game of Firefly (starting Jobs,
+Gear, map setup, etc.) Story Cards may override some Set Up Card steps.
 
 === Ship Card
 
