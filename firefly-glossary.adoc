@@ -932,11 +932,15 @@ the Job Attempt.
 
 === Stash
 
-Your ship's Stash storage provides some protection against searches and piracy.
-When targeted by a Piracy Job, you may re-arrange your Goods, Passengers
-and Fugitives between your Cargo Hold and Stash.
+[.expansion]#Pirates# *Goods* in your Stash can't be stolen by a *Piracy Job*.
+When you're targeted, you may rearrange your Goods, *Passengers* and *Fugitives*
+between your Cargo Hold and Stash until the Showdown is rolled.
 
-The Stash on Jetwash and Esmeralda may only hold Fuel.
+Stashed *Contraband* and Fugitives still make you an *Outlaw Ship*, and the
+Alliance seizes them during *Alliance Contact*. *Reaver Contact* kills all
+Passengers and Fugitives, stashed or not.
+
+The Stash on a *Series 4 Ship* may only hold Fuel.
 
 === Story Cards
 
