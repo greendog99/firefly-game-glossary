@@ -866,18 +866,20 @@ the Showdown. The Defender wins ties.
 
 === Shuttles
 
-[.expansion]#Flying# Whenever your Crew jumps ship (after being *Disgruntled*
-twice or being hired by another player while disgruntled) roll a die. If the
-result is lower than the number of Crew leaving, discard one *Ship Upgrade*
-with the [.keyword]#SHUTTLE# keyword—they took off in your shuttle.
-
-If a Shuttle lets you *Work* in an adjacent sector, you can only transport as
-many goods and passengers as fit in the Shuttle, cannot benefit from other Ship
-Upgrades, and can only carry four Crew on the Job.
+[.expansion]#Flying# If a Shuttle lets you *Work* in an adjacent sector, you
+can only transport as many goods, passengers, and fugitives as fit in the
+Shuttle, cannot benefit from other Ship Upgrades, and can only carry four Crew
+on the Job.
 
 You can ignore *Alert Tokens* when using a Shuttle to Work in an adjacent sector.
 You may not use a Shuttle to take a Work Action in a sector occupied by a Reaver
-Cutter, or one occupied by the Alliance Cruiser if you are an *Outlaw Ship*.
+Cutter, or by the Alliance Cruiser or Corvette if you are an *Outlaw Ship*.
+
+Whenever your Crew jumps ship (after being *Disgruntled* twice or being hired
+by another player while disgruntled) roll a die. If the result is lower than or
+equal to the number of Crew leaving, discard one *Ship Upgrade* with the
+[.keyword]#SHUTTLE# keyword—they took off in your shuttle.
+
 
 === Skills & Skill Tests
 
