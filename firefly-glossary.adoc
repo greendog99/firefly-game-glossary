@@ -67,8 +67,10 @@ Sector_ — Move the Operative's Corvette.
    are immediately removed.
 
 4. If the Alliance Cruiser or Operative's Corvette arrives and you are an
-   *Outlaw Ship*, resolve the *Alliance Contact* or *Corvette Contact* tile. If
-   this ends your *Fly Action*, do not draw a Nav Card.
+   *Outlaw Ship*, resolve the *Alliance Contact* or *Corvette Contact* tile.
+   Your *Fly Action* ends immediately; don't draw a Nav Card. If a Reaver Cutter
+   arrives, continue your Fly Action. *Reaver Contact* happens only if you start
+   your next turn in its sector.
 
 5. Remove all resolved Alert Tokens from the sector, regardless of the die roll.
 
