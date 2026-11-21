@@ -146,7 +146,7 @@ _optional_ job tasks which can be completed after starting the Job, but before
 completing the Job, for an additional reward. Use a Work Action to complete a
 Bonus Opportunity.
 
-When a bonus opportunity is completed, Place a Completed Token on the Job Card
+When a bonus opportunity is completed, place a Completed Token on the Job Card
 and take the listed Bonus reward.
 
 You do _not_ have to pay your crew a cut of the Bonus.
@@ -173,7 +173,7 @@ requiring you to apprehend a Fugitive, Bind them by Law, and deliver them to a
 drop-off destination. Bounty Cards are typically associated with *Wanted* Crew.
 
 Two *Work Actions* are needed to complete a Bounty Job—one to capture the
-Fugitive, and one deliver them. To capture, you must be in the same Sector as
+Fugitive, and one to deliver them. To capture, you must be in the same Sector as
 the fugitive, who may be:
 
 * On a rival player's ship as a Crew member, or already captured and Bound by Law.
@@ -184,7 +184,7 @@ rival Crew.
 the Fugitive. The player to your right rolls for the defending Fugitive.
 The Fugitive uses their best available Skill.
 
-* On your ship, as Crew member. You may betray them, and they are apprehended
+* On your ship, as a Crew member. You may betray them, and they are apprehended
 without a Showdown. However, all members of your Crew except your Leader become
 disgruntled.
 
@@ -279,7 +279,7 @@ the final step if the job does not normally require Misbehaving.
 
 When you complete a Job with an attached Challenge, you become Solid with Mr.
 Universe in addition to the Job's Contact. If you receive a *Warrant* while
-working a Job with an attached Challenge, you lose Reputation with Mr Universe.
+working a Job with an attached Challenge, you lose Reputation with Mr. Universe.
 
 === Consider
 
@@ -576,7 +576,7 @@ a prerequisite for some Misbehave options or Job Cards.
 Whenever a test result says to Kill some number of *Crew*, you must choose
 which Crew to remove from the game. Any *Gear* the Crew was carrying is
 returned to your ship. If you choose your *Leader*, place a *Disgruntled*
-Token on your them and return them to your ship for the rest of the *Work
+Token on them and return them to your ship for the rest of the *Work
 Action* instead of removing the Leader's Crew Card from the game.
 
 During a *Work Action*, you may only kill Crew that were participating in the
@@ -649,7 +649,7 @@ each before proceeding to the next. Once you start the job attempt, you must
 see it through and cannot stop early.
 
 Most Misbehave Cards have two options you can choose from. Some options may
-have requirements such as *Keywords*. Some cards my have two steps to pass
+have requirements such as *Keywords*. Some cards may have two steps to pass
 sequentially.
 
 The bottom of some Misbehave Cards list a Person, Profession, Item, or
@@ -666,7 +666,7 @@ from scratch on the next attempt with new Misbehave cards.
 
 * _Warrant Issued_ — you've failed the job and attracted the authorities. Place a
 *Warrant* Token on your Ship Card. Discard the job to its Contact Deck and end
-your Work Action. Lose any repuation you had with the job owner and with Harken.
+your Work Action. Lose any reputation you had with the job owner and with Harken.
 Kill a crew if you were working a job for Niska.
 
 === Morality
@@ -967,9 +967,9 @@ buy, sell and trade *Crew*, *Fuel*, *Parts*, *Cargo*, *Contraband*, Ship
 *Upgrades* and *Gear* to one another without restriction. They may not exchange
 Jobs, Passengers, Fugitives or Drive Cores.
 
-Players are free to discuss and make these deals outside of the normal turn
+Players are free to discuss and make these trades outside of the normal turn
 order and other players may take their normal turn while bargains are struck.
-Dealing with others players in this fashion does not require using an Action.
+Trading with other players in this fashion does not require using an Action.
 The opportunity for Trading ends when one of the players leaves the sector.
 
 [.expansion]#BlueSun# Credits may be exchanged with another player at any time,
