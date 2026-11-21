@@ -902,7 +902,7 @@ Heroics Bonus Roll*—roll the die again and add the result to the total.
 === Solid
 
 When you complete a *Job* for a *Contact* your reputation with them becomes
-Solid. Slide the completed Job Card under your Ship Card so the name of the
+Solid. Slide the completed Job Card under your Ship so the name of the
 Contact is visible. If you complete a job and are already Solid with that
 Contact, remove the newly completed job card from the game.
 
@@ -913,15 +913,12 @@ with them, as listed in the top-right of their card, and can offer other
 benefits. Contacts will not _sell_ you Cargo or Contraband unless their card
 says "`Selling`".
 
-If you receive a *Warrant* while working a Job, any Solid reputation
-with that Contact is lost along with any and all benefits for being Solid.
-Remove from the game the completed Job Card used to track your Solid reputation
-with the contact. You may prove yourself useful again by completing another Job
-for the offended Contact and restore your Solid rep.
+If you receive a *Warrant* during a *Work Action*, you lose your Solid
+reputation with that Job's Contact: remove their Job Card under your Ship
+from the game. Complete another of their Jobs to become Solid again.
 
 Receiving a Warrant for _any reason_ will cause reputation loss with Harken,
-regardless of what contact the Job you were working came from. You may not
-become Solid with Harken while you have a Warrant.
+and you may not become Solid with Harken while you have a Warrant.
 
 === Splitting Up
 
@@ -1034,15 +1031,16 @@ If a Crew with a Wanted Token is dismissed, discard the Wanted Token.
 
 image::warrant.png[float=right,pdfwidth=25%]
 
-If you receive a Warrant while *Working* a *Job*, discard the Job, returning it
-to the discard pile of the issuing Contact. Any *Solid* Reputation with that
-Contact is lost.
+If you receive a Warrant during a *Work Action*, discard the Job you were
+Working, returning it to the discard pile of the issuing Contact. Any *Solid*
+Reputation with that Contact is lost. Warrants received at other times don't
+discard Jobs.
 
 Receiving a Warrant for _any reason_ will cause reputation loss with Harken,
-regardless of what contact the Job you were working came from. You may not
-become Solid with Harken while you have a Warrant.
+and you may not become Solid with Harken while you have a Warrant.
 
-You must kill a Crew if you receive a Warrant while working a job for Niska.
+You must kill a Crew if you receive a Warrant during a Work Action for one of
+Niska's Jobs.
 
 === Work Action
 
