@@ -673,15 +673,16 @@ Kill a crew if you were working a job for Niska.
 
 image::illegal-immoral.png[float=right,pdfwidth=33%]
 
-Some Jobs are Immoral and some are Morally Subjective. A small red tab on the
+Some Jobs are Immoral and some are Subjective. A small red tab on the
 *Job Card* below the Legal/Illegal tab notes the Job's morality. If nothing is
 listed, the job is Moral.
 
 Whenever you complete an Immoral Job, all your Moral Crew become *Disgruntled*.
 
-[.expansion]#Pirates# Working on a Subjectively Moral job against a ship
-with a Moral Leader makes the job Immoral: your Moral Crew do not like to
-target other Moral Leaders.
+[.expansion]#Pirates# Working a Subjective Job against a ship with a Moral
+Leader makes the job Immoral: your Moral Crew do not like to target other
+Moral Leaders. If your own *Leader* is Moral, they become Disgruntled along
+with the rest of your Moral Crew.
 
 === Mosey
 

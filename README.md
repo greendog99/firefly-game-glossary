@@ -1,4 +1,5 @@
 # Firefly: The Game
+
 ## Unofficial Glossary
 
 This "Firefly: The Game" unofficial glossary contains a unified set of
@@ -24,3 +25,8 @@ the number is referencing a die roll.
 find their answer more quickly (e.g. "no ship may Full Burn or Evade into a
 Reaver Cutter's sector" is mentioned in both the "Fly Action" and "Reaver
 Cutter" sections.)
+
+## Requirements
+
+`gem install text-hyphen`
+

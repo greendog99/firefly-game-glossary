@@ -3,7 +3,7 @@ var:
   base_font_color: 181818
   heading_font_color: 783818
   # Letter:
-  font_size: 9.43
+  font_size: 9.42
   # A4:
   #font_size: 9.9
 
@@ -34,11 +34,11 @@ page:
 footer:
   recto: &shared_footer
     left:
-      content: 'Firefly Unofficial Glossary'
+      content: "Firefly Unofficial Glossary"
     center:
-      content: '{page-number} of {page-count}'
+      content: "{page-number} of {page-count}"
     right:
-      content: 'v{revnumber}, {docdate}'
+      content: "v{revnumber}, {docdate}"
   verso: *shared_footer
 
 heading:
