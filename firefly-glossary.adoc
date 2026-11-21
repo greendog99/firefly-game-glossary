@@ -87,11 +87,11 @@ with an Alliance Alert Card in Play. There are also Misbehave Cards that direct
 you to put an Alert Card into play.
 
 When an Alert Card is in play, there is a new special rule that affects all the
-crews working the ‘Verse. When an Alert Card leaves play, return it to the
+crews working the ’Verse. When an Alert Card leaves play, return it to the
 bottom of the Alert Deck.
 
 Any time the "`Alliance Cruiser`" Nav Card is drawn, draw a new
-*Alliance Alert Card*.
+Alliance Alert Card.
 
 === Alliance Contact
 
@@ -102,7 +102,7 @@ See *Alliance Cruiser*.
 The Alliance Cruiser patrols Alliance space (blue-bordered sectors) searching
 for *Outlaw Ships*. It moves in three ways:
 
-* When you draw the "`Alliance Cruiser`" Card, the Cruiser moves to your
+* When you draw the "`Alliance Cruiser`" card, the Cruiser moves to your
 Sector.
 
 * When you draw the "`Alliance Entanglements`" card, you move the Alliance
@@ -204,7 +204,7 @@ When a Bounty is delivered, take your reward and pay or Disgruntle your crew as
 with any other Job. Then remove the Bounty Card and Crew Card from the game.
 
 Each time the "`*Alliance Cruiser*`" Nav Card is drawn, return the face-up
-Bounties to the bottom of the Bounty Deck and reveal 3 new ones.
+Bounties to the bottom of the Bounty Deck and reveal three new ones.
 
 *Related Topics:* Cortex Alert
 
@@ -233,7 +233,7 @@ Disgruntled or not, including your Leader, and remove all Disgruntled tokens.
 
 [.expansion]#Flying# If you have a *Deceptive* Crew member, you may use a *Deal
 Action* from any location to *Consider* three Capers Cards and keep up to two.
-If you draw the "Reshuffle" card while considering Capers, resolve it
+If you draw the "`Reshuffle`" card while considering Capers, resolve it
 immediately.
 
 If you lose your Deceptive Crew, immediately discard all active Capers. If this
@@ -690,7 +690,7 @@ See *Fly Action*.
 
 === Nav Cards
 
-Nav Cards describe obstacles and encounters in the 'Verse. When using the *Fly
+Nav Cards describe obstacles and encounters in the ’Verse. When using the *Fly
 Action*, draw and resolve a Nav Card matching each sector entered (Alliance
 Space, Border Space, or Rim Space), before continuing to the next sector.
 
@@ -724,7 +724,7 @@ Crew* onboard.
 === Parts
 
 Spare Parts are sometimes needed in order to make repairs while flying through
-the 'Verse. Parts can be purchased at a *Supply Planet* as part of a *Buy action*,
+the ’Verse. Parts can be purchased at a *Supply Planet* as part of a *Buy Action*,
 or sometimes can be found through *Nav Cards* or other means.
 
 You may dump Parts at any time on your turn to make space in your hold.

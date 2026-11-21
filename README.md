@@ -30,3 +30,4 @@ Cutter" sections.)
 
 `gem install text-hyphen`
 
+`brew install ghostscript` (used by `-a optimize` to compress the PDFs)
