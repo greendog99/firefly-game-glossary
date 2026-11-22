@@ -635,11 +635,14 @@ your entire *Work Action* to take $200 from the bank instead of Working a Job.
 
 === Medic
 
-If you have a Medic in your Crew, make a Medic Check whenever a Crew is
-*Killed*:
+If you have a Medic in your Crew, make one Medic Check whenever a Crew is
+*Killed*, no matter how many Medics you have:
 
 * 1–4: Crew Dies, remove from play.
 * 5–6: Crew is returned to the ship.
+
+A Crew returned to the ship during a Job can't help with the rest of it, and
+neither can their Gear.
 
 Some Gear and Ship Upgrades can modify the Medic Check.
 
