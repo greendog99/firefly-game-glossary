@@ -317,12 +317,9 @@ future turns to add to the bounty stack if you wish. When you deliver the
 Bounty, you receive the Bounty reward for each Fugitive delivered. Bounty
 bonuses are only paid once.
 
-You may steal a Cortex Alert Bounty from a rival player, following the same
-Boarding Test and Showdown as when stealing a regular Bounty. In this case, you
-steal _all_ Bound Crew Cards with the Bounty Card, as part of a single Work
-Action.
-
-*Related Topics:* Bounty Cards
+If you steal a Cortex Alert Bounty from a rival, following the same Boarding
+Test and Showdown as when stealing a regular Bounty, you take _all_ its Bound
+Fugitives in the one Work Action.
 
 === Corvette Contact
 
@@ -975,10 +972,8 @@ buy, sell and trade *Crew*, *Fuel*, *Parts*, *Cargo*, *Contraband*, Ship
 *Upgrades* and *Gear* to one another without restriction. They may not exchange
 Jobs, Passengers, Fugitives or Drive Cores.
 
-Players are free to discuss and make these trades outside of the normal turn
-order and other players may take their normal turn while bargains are struck.
-Trading with other players in this fashion does not require using an Action.
-The opportunity for Trading ends when one of the players leaves the sector.
+Trading doesn't use an Action and may happen outside turn order. It ends when
+either ship leaves the sector.
 
 [.expansion]#BlueSun# Credits may be exchanged with another player at any time,
 regardless of location.
