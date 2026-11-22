@@ -15,9 +15,7 @@ alphabetically by topic. This is not a teaching guide or rulebook—it
 is a reference to be used during play to assist with specific questions.
 
 Phrases in *bold* refer to other relevant topics within the glossary.
-Additional relevant topics which aren't mentioned in the main text are listed
-at the end of the entry under "`*Related Topics*`". _Italicized_ phrases
-indicate important details that should not be overlooked.
+_Italicized_ phrases indicate important details that should not be overlooked.
 
 Some topics which apply only to expansions are noted with the expansion name in
 blue:
@@ -150,6 +148,10 @@ and take the listed Bonus reward.
 
 You do _not_ have to pay your crew a cut of the Bonus.
 
+[.expansion]#Flying# Some Bonus Opportunities require you to be in a Rival's
+Sector. You may claim one only if that Rival agrees, and they get the same
+bonus. Any Goods you drop off for it are discarded, not given to the Rival.
+
 === Botched
 
 If *Working* a job results in "`Attempt Botched`", you've failed this attempt
@@ -169,8 +171,9 @@ image::wanted-card.png[float=right,pdfwidth=28%]
 
 [.expansion]#Pirates# Bounties are shared public Jobs: apprehend a Fugitive,
 Bind them by Law, and deliver them to a drop-off destination. Most target
-*Wanted* Crew. The three face-up Bounties form the Most Wanted List, and any
-player may work any of them. When one is claimed, reveal a new one.
+*Wanted* Crew; a *Cortex Alert* targets a whole class of Crew. The three
+face-up Bounties form the Most Wanted List, and any player may work any of
+them. When one is claimed, reveal a new one.
 
 Capturing and delivering each take a *Work Action*, and you may apprehend only
 one Fugitive per Work Action. You must be in the Fugitive's sector:
@@ -201,8 +204,6 @@ and Crew Card from the game.
 
 Each time the "`*Alliance Cruiser*`" Nav Card is drawn, return the face-up
 Bounties to the bottom of the Bounty Deck and reveal three new ones.
-
-*Related Topics:* Cortex Alert
 
 === Bribes
 
@@ -862,14 +863,6 @@ their Job Type; completing one counts as a Salvage Op.
 If your crew has any of their gear Seized, it is removed from the game and may
 not be repurchased.
 
-=== Series 4 Ship
-
-Series 4 ships have a larger cargo hold, better drive core, and a secured
-fuel exchange system (six stash spaces for fuel only).
-
-They are pre-equipped with a set of starting *Ship Upgrades*. During Game
-Setup, you must pay the costs listed on the matching Ship Upgrade Cards.
-
 === Set Up Cards
 
 Set Up Cards allow different ways to set up a game of Firefly (starting Jobs,
@@ -879,6 +872,14 @@ Gear, map setup, etc.) Story Cards may override some Set Up Card steps.
 
 Your Ship Card has a hold and a *Stash* that are used to store and hide goods,
 slots for a *Drive Core* and *Ship Upgrades*, and a maximum crew capacity.
+
+Some ships have special rules:
+
+* _Series 4 ships:_ six Stash spaces that hold only Fuel. They come with
+starting Ship Upgrades; during Set Up, pay the costs listed on those cards.
+
+* [.expansion]#Flying# _Restless Sole:_ its unique Drive Core can't be swapped
+out, and it counts as a "`Firefly`" for rules and Nav Cards.
 
 === Ship Upgrade Cards
 
@@ -981,7 +982,7 @@ Stashed *Contraband* and Fugitives still make you an *Outlaw Ship*, and the
 Alliance seizes them during *Alliance Contact*. *Reaver Contact* kills all
 Passengers and Fugitives, stashed or not.
 
-The Stash on a *Series 4 Ship* may only hold Fuel.
+The Stash on a Series 4 ship (see *Ship Card*) may only hold Fuel.
 
 === Story Cards
 
