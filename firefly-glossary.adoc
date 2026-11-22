@@ -298,16 +298,24 @@ Contacts have a variety of Jobs they’d like you to undertake. Signs on the map
 mark Contact Planets where you can use the *Deal Action* to *Consider* new jobs
 from the corresponding Contact Deck.
 
+Each Contact has a special rule, listed at the top of the Contact side of their
+Job Cards. Most apply only while you're *Solid* with that Contact. Niska's
+"`Pound of Flesh`" applies whenever you work one of his Jobs, regardless of your
+Rep: if you receive a *Warrant* during a Work Action for one of his Jobs, Kill a
+Crew.
+
 === Contraband
 
 Smuggling Jobs require you to pick up *Illegal* Contraband at one location (using
 a *Work Action*), and deliver it to a different location (using a second Work
 Action). These jobs require you to *Misbehave* when loading and/or unloading
-Contraband.
+Contraband. Carrying Contraband, even in your *Stash*, makes you an *Outlaw
+Ship*, and the Alliance seizes it during *Alliance Contact*.
 
-Seized contraband can be difficult to replace. Replacements can occasionally be
-found through *Nav Cards* or *Misbehave Cards*, or by *Trading* with other
-players or when Solid with Fanty & Mingo.
+Seized contraband can be difficult to replace: you can't buy it with a *Buy
+Action*. Replacements can occasionally be found through *Nav Cards* or
+*Misbehave Cards*, or by *Trading* with other players. When Solid with Fanty &
+Mingo, you may buy Contraband from them for $400 each during a *Deal Action*.
 
 You may dump Contraband into space at any time on your turn to make more room
 in your hold.
@@ -456,16 +464,19 @@ When a sector is occupied by a *Reaver Cutter*, no ship may Full Burn or
 === Fuel
 
 Fuel is needed to Full Burn during the *Fly Action*. Your *Drive Core* sets the
-cost, and each *Heavy Load* adds one more. Fuel can be purchased at any *Supply Planet* as part of a *Buy Action*. You may dump Fuel
-at any time on your turn to make space in your hold.
+cost, and each *Heavy Load* adds one more. Fuel can be purchased at any *Supply
+Planet* as part of a *Buy Action*. Each Fuel takes half a space in your Hold or
+Stash, and can share a space with a Part. You may dump Fuel at any time on your
+turn to make space in your hold.
 
 === Fugitives
 
-Like *Passengers*, some transport Jobs require you to pick up Fugitives at one location (using a
-*Work Action*), and deliver them to a different location (using a second Work
-Action). Transporting Fugitives is *Illegal* and makes you an *Outlaw Ship*.
+Like *Passengers*, some transport Jobs require you to pick up Fugitives at one
+location (using a *Work Action*), and deliver them to a different location
+(using a second Work Action). Transporting Fugitives is *Illegal* and makes you
+an *Outlaw Ship*.
 
-You may drop off Fugitives in any sector with a Planet at any time on your turn
+You may drop off Fugitives in any *Planetary Sector* at any time on your turn
 to make space in your hold.
 
 === Full Burn
@@ -497,9 +508,9 @@ See *Story Goals*.
 
 === Goods
 
-Goods are *Cargo*, *Contraband*, *Fuel* and *Parts*. If a card allows you to
-load a number of Goods, you may choose which type of Goods you’d like to load,
-and may mix different Goods.
+Goods are *Cargo*, *Contraband*, *Fuel* and *Parts*. Passengers and Fugitives
+are not Goods. If a card allows you to load a number of Goods, you may choose
+which type of Goods you’d like to load, and may mix different Goods.
 
 === Havens
 
@@ -600,7 +611,9 @@ image::kosherized.png[float=right,pdfwidth=40%]
 Some Fightimage:skill-fight.png[fit=line] *Skill Tests* will say "`Kosherized`"
 after the skill point number. In Kosherized fights, you may not add any
 image:skill-fight.png[fit=line] from *Gear* to your total: only the
-image:skill-fight.png[fit=line] listed on your *Crew Cards* may be used.
+image:skill-fight.png[fit=line] listed on your *Crew Cards* may be used. The
+Gear’s other abilities still apply, such as a re-roll or a Crew Card's bonus for
+carrying a Knife.
 
 === Lawman
 
@@ -614,7 +627,7 @@ delivered to the drop-off location on a *Bounty Card*.
 === Leaders
 
 Your Leader always counts as Crew, taking up one Crew space on your Ship Card,
-costing $100 during Shore Leave, etc.
+costing $100 during Shore Leave, etc., but never takes a Cut from Jobs.
 
 When the outcome of any event would cause your Leader to be *Killed*, return
 them to your ship for the rest of the *Work Action* and place a *Disgruntled*
@@ -660,8 +673,10 @@ each before proceeding to the next. Once you start the job attempt, you must
 see it through and cannot stop early.
 
 Most Misbehave Cards have two options you can choose from. Some options may
-have requirements such as *Keywords*. Some cards may have two steps to pass
-sequentially.
+have requirements such as *Keywords*; you can't choose an option whose
+requirement you can't meet. Some cards may have two steps to pass sequentially.
+[.expansion]#Crime# If an option has you draw a replacement card, the original
+doesn't count as passed.
 
 The bottom of some Misbehave Cards list a Person, Profession, Item, or
 *Keyword* which will allow you to proceed automatically without misbehaving.
@@ -676,9 +691,10 @@ Action. Discard all completed and failed Misbehave cards—you will need to star
 from scratch on the next attempt with new Misbehave cards.
 
 * _Warrant Issued_ — you've failed the job and attracted the authorities. Place a
-*Warrant* Token on your Ship Card. Discard the job to its Contact Deck and end
-your Work Action. Lose any reputation you had with the job owner and with Harken.
-Kill a crew if you were working a job for Niska.
+*Warrant* Token on your Ship Card, which makes you an *Outlaw Ship*. Discard the
+job to its Contact Deck and end your Work Action. Lose any reputation you had
+with the job owner and with Harken. Kill a crew if you were working a job for
+Niska.
 
 === Morality
 
@@ -731,11 +747,16 @@ A ship is considered an Outlaw Ship if it has any outstanding *Warrants*, is
 carrying *Contraband* or *Fugitives* (even in the ship's Stash), or has any *Wanted
 Crew* onboard.
 
+[.expansion]#Pirates# Bound Fugitives from *Bounty Cards* don't count. They aren't
+Crew or Fugitive Tokens, and the Alliance ignores them.
+
 === Parts
 
 Spare Parts are sometimes needed in order to make repairs while flying through
 the ’Verse. Parts can be purchased at a *Supply Planet* as part of a *Buy Action*,
-or sometimes can be found through *Nav Cards* or other means.
+or sometimes can be found through *Nav Cards* or other means. Each Part takes
+half a space in your Hold or Stash, and can share a space with a Fuel. A *Series
+4 Ship*’s Stash can't hold Parts.
 
 You may dump Parts at any time on your turn to make space in your hold.
 
@@ -745,8 +766,9 @@ Some transport Jobs require you to pick up Passengers at one location (using a
 *Work Action*), and deliver them to a different location (using a second Work
 Action).
 
-You may drop off Passengers in any sector with a Planet at any time on your
-turn to make space in your hold.
+You may drop off Passengers in any *Planetary Sector* at any time on your turn
+to make space in your hold. *Reaver Contact* kills all your Passengers, even in
+your Stash, and Passengers can't be stolen by a *Piracy Job*.
 
 === Piracy Jobs
 
@@ -830,8 +852,9 @@ See *Solid*.
 
 === Salvage Op
 
-Some cards have "`Salvage Op`" listed on them. This may activate a bonus on
-certain Crew Cards.
+Some cards have "`Salvage Op`" listed on them, which may activate a bonus on
+certain Crew Cards. [.expansion]#Kalidasa# Some Jobs list "`Salvage Op`" as
+their Job Type; completing one counts as a Salvage Op.
 
 === Seizure
 
@@ -878,8 +901,12 @@ defend with.
 Both players may allocate their Gear to any Crew they wish before the Showdown
 roll.
 
-Both players roll a die and add it to their chosen Skill. The higher total wins
-the Showdown. The Defender wins ties.
+Both players roll a die and add it to their chosen Skill. "`Thrillin’
+Heroics`" Bonus Rolls apply. The higher total wins the Showdown. The Defender
+wins ties.
+
+Each player’s Showdown counts as a Skill Test of the Skill they chose, so Crew
+and Gear abilities for that Skill apply, such as Zoë’s Fight re-roll.
 
 === Shuttles
 
@@ -993,6 +1020,9 @@ to hire and acquire these cards.
 The dice in the game have a Firefly pictured instead of a 6. Whenever you roll
 a Firefly, count it as a 6 and make a Bonus Roll: roll the die again and add
 the result to the total.
+
+If you re-roll a Test, start over from scratch: discard all dice rolled so far,
+including Bonus Rolls.
 
 === Trading
 
