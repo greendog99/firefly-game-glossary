@@ -203,10 +203,8 @@ Bounties to the bottom of the Bounty Deck and reveal three new ones.
 image::bribes.png[float=right,pdfwidth=38%]
 
 Some Negotiateimage:skill-negotiate.png[fit=line] *Skill Tests* say "`Bribes`"
-after their number. _Before_ you roll a die, you may choose to pay Bribes.
-
-For every $100 you pay the bank, add +1 to your total. Your new test result
-will be your Roll + Skill + Bribes.
+after their number. _Before_ you roll a die, every $100 you pay the bank adds
++1 to your total. Your new test result will be your Roll + Skill + Bribes.
 
 === Buy Action
 
@@ -516,12 +514,8 @@ at your Haven.
 
 image::heavy-load.png[float=right,pdfwidth=20%]
 
-Some Jobs require transporting Heavy Loads. If you have one of these Jobs
-active, you must spend one extra *Fuel* during a *Full Burn*. The effect of
-multiple Heavy Load tokens is cumulative.
-
-If your *Drive Core* doesn't normally require Fuel to Full Burn, you must still
-pay the Heavy Load penalty.
+Each Active Job with a Heavy Load adds one *Fuel* to the cost of every *Full
+Burn*, even if your *Drive Core* normally needs no Fuel.
 
 === Illegal Jobs
 
