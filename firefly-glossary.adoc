@@ -221,16 +221,21 @@ Disgruntled or not, including your Leader, and remove all Disgruntled tokens.
 
 === Capers
 
-[.expansion]#Flying# If you have a *Deceptive* Crew member, you may use a *Deal
-Action* from any location to *Consider* three Capers Cards and keep up to two.
-If you draw the "`Reshuffle`" card while considering Capers, resolve it
-immediately.
+[.expansion]#Flying# Capers are Saffron's Jobs. She isn't a *Contact*, so you
+can never become *Solid* from Capers. If you have a *Deceptive* Crew member,
+you may use a *Deal Action* from any sector to *Consider* three Capers Cards and
+keep up to two.
 
-If you lose your Deceptive Crew, immediately discard all active Capers. If this
-happens in the middle of a Caper *Work Action*, you may attempt to complete the
-Job before having to discard it.
+If you draw the "`Reshuffle`" card, resolve it immediately. If your Deceptive
+Crew Jumps Ship, your Deal Action ends. Otherwise, finish considering Capers.
+Either way, reshuffle the Capers Deck after the Deal.
 
-Capers count towards your *Job Card* hand limit and active job limit once
+If your Deceptive Crew leaves your ship for any reason, immediately discard all
+Active Capers. If this happens during a Caper *Work Action*, you may attempt to
+complete it, but discard it if that attempt fails. Hiring a second Deceptive
+Crew doesn't discard your Capers.
+
+Capers count towards your *Job Card* hand limit and Active Job limit once
 started.
 
 === Cargo
@@ -1012,8 +1017,8 @@ encounter the *Alliance Cruiser*, the Crew may be seized.
 image::wanted-token.png[float=right,pdfwidth=25%]
 
 [.expansion]#Crime# When a result states "`Your Crew is now Wanted`", add a Wanted
-token to each of your Crew who isn’t already Wanted. They now count as Wanted
-whenever you’re called upon to make a Wanted Crew Roll.
+token to each of your Crew, other than your Leader, who isn’t already Wanted.
+They now count as Wanted whenever you’re called upon to make a Wanted Crew Roll.
 
 If a Crew with a Wanted Token is dismissed, discard the Wanted Token.
 
