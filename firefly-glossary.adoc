@@ -153,41 +153,37 @@ scratch on the next attempt with new Misbehave Cards.
 
 image::wanted-card.png[float=right,pdfwidth=28%]
 
-[.expansion]#Pirates# Bounties are a special type of shared public Job
-requiring you to apprehend a Fugitive, Bind them by Law, and deliver them to a
-drop-off destination. Bounty Cards are typically associated with *Wanted* Crew.
+[.expansion]#Pirates# Bounties are shared public Jobs: apprehend a Fugitive,
+Bind them by Law, and deliver them to a drop-off destination. Most target
+*Wanted* Crew. The three face-up Bounties form the Most Wanted List, and any
+player may work any of them. When one is claimed, reveal a new one.
 
-Two *Work Actions* are needed to complete a Bounty Job—one to capture the
-Fugitive, and one to deliver them. To capture, you must be in the same Sector as
-the fugitive, who may be:
+Capturing and delivering each take a *Work Action*, and you may apprehend only
+one Fugitive per Work Action. You must be in the Fugitive's sector:
 
-* On a rival player's ship as a Crew member, or already captured and Bound by Law.
-You must pass a *Boarding Test* followed by a Showdown against the entire
-rival Crew.
+* On a rival's ship, as Crew or already Bound: pass a *Boarding Test*, then a
+Showdown against the entire rival Crew.
 
-* In the discard pile of a Supply Planet. Resolve a Showdown between your Crew and
-the Fugitive. The player to your right rolls for the defending Fugitive.
-The Fugitive uses their best available Skill.
+* In a Supply Planet's discard pile: resolve a Showdown against the Fugitive,
+who uses their best Skill. The player to your right rolls for them.
 
-* On your ship, as a Crew member. You may betray them, and they are apprehended
-without a Showdown. However, all members of your Crew except your Leader become
-disgruntled.
+* In your own Crew: betray them and they're apprehended without a Showdown, but
+all your other Crew except your Leader become Disgruntled.
 
-*Showdown* outcomes are shown on the Bounty Card. Once apprehended, take
-the Fugitive's Crew Card and the Bounty Card. These do not count toward your
-Crew or Job Limits or Cargo capacity (do not take a Fugitive Token).
+*Showdown* outcomes are on the Bounty Card. Take the Fugitive's Crew Card and
+the Bounty Card. They don't count toward your Crew, Job or Cargo limits (take
+no Fugitive Token).
 
-If you captured an _already Bound_ Fugitive from a Rival, you may choose to
-deliver the Bounty yourself, or to rescue the Fugitive by either adding them to
-your Crew for free or returning them to their Supply Planet's discard pile. In
-both cases, return the Bounty Card to the bottom of its deck.
+If you capture an _already Bound_ Fugitive from a rival, you may deliver them
+yourself or rescue them: add them to your Crew for free or return them to their
+Supply Planet's discard pile, and put the Bounty Card on the bottom of its deck.
 
-If *Reaver Contact* kills your Passenger and Fugitive tokens, any Bound
-Fugitives on your ship are also removed from the game, along with their
-Bounty Cards.
+*Reaver Contact* also removes Bound Fugitives on your ship, and their Bounty
+Cards, from the game.
 
-When a Bounty is delivered, take your reward and pay or Disgruntle your crew as
-with any other Job. Then remove the Bounty Card and Crew Card from the game.
+On delivery, get paid and pay your Crew as with any Job. If the Bounty is
+*Immoral*, your Moral Crew also become Disgruntled. Then remove the Bounty Card
+and Crew Card from the game.
 
 Each time the "`*Alliance Cruiser*`" Nav Card is drawn, return the face-up
 Bounties to the bottom of the Bounty Deck and reveal three new ones.
