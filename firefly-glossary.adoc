@@ -402,15 +402,13 @@ You may remove Disgruntled Tokens by sending your Crew on Shore Leave during a
 === Drive Core
 
 Each Drive Core has a range, which is the maximum number of sectors your ship
-can move during a Full Burn. Drive Cores may also have additional special rules
+can move during a *Full Burn*. Drive Cores may also have additional special rules
 listed on their cards.
 
 You may only have one Drive Core at a time. If you get a new Drive Core,
 discard your previous one.
 
 Certain ships have special Drive Cores which cannot be replaced.
-
-*Related Topics:* Fly Action
 
 === Evade
 
@@ -442,22 +440,18 @@ When a sector is occupied by a *Reaver Cutter*, no ship may Full Burn or
 
 === Fuel
 
-Fuel is needed in order to Full Burn during the *Fly Action*. Fuel can be
-purchased at any *Supply Planet* as part of a *Buy Action*. You may dump Fuel
+Fuel is needed to Full Burn during the *Fly Action*. Your *Drive Core* sets the
+cost, and each *Heavy Load* adds one more. Fuel can be purchased at any *Supply Planet* as part of a *Buy Action*. You may dump Fuel
 at any time on your turn to make space in your hold.
-
-*Related Topics:* Drive Core, Heavy Load
 
 === Fugitives
 
-Some transport Jobs require you to pick up Fugitives at one location (using a
+Like *Passengers*, some transport Jobs require you to pick up Fugitives at one location (using a
 *Work Action*), and deliver them to a different location (using a second Work
 Action). Transporting Fugitives is *Illegal* and makes you an *Outlaw Ship*.
 
 You may drop off Fugitives in any sector with a Planet at any time on your turn
 to make space in your hold.
-
-*Related Topics:* Passengers
 
 === Full Burn
 
@@ -537,15 +531,13 @@ You may have up to three inactive Job Cards in your hand. You may discard Jobs
 from your hand at any time.
 
 You may have up to three active Job Cards in your Active Jobs area. You may
-_not_ discard Active Jobs. They must be completed, or can be lost if you gain a
-*Warrant* while working them.
+_not_ discard Active Jobs. They must be completed, or are lost if you gain a
+*Warrant* during a *Work Action* on them.
 
 Job Cards explain the Job Type (shipping, transport, smuggling, or crime),
 location(s) where the job is to be performed, whether it is *Immoral* or
 *Illegal*, if *Misbehaving* is required, *Skills* and *Keywords* needed to Work
-the job, the job's payout, and more.
-
-*Related Topics:* Bonus Opportunity, Work Action
+the job, the job's payout, any *Bonus Opportunity*, and more.
 
 === Keep Flying
 
@@ -1034,7 +1026,8 @@ Delivery jobs.
 You may not have more than three active Jobs.
 * Select which *Crew* will participate and assign *Gear* to them as desired. Crew and
 gear left on the ship may not be used during the Job.
-* Follow the instructions on the Job Card to attempt to work the job.
+* Follow the instructions on the Job Card, including any *Misbehave Cards*, to
+attempt to work the job.
 
 If, while working a Job, all your Crew is killed or returns to the ship, you’ve
 *Botched* the Job.
@@ -1045,6 +1038,7 @@ After successfully completing a job:
 Card, Crew Cards, and Story Card.
 * Pay every crew member the value listed on their card, whether they worked
 on the job or not. Any Crew member you choose not to pay becomes *Disgruntled*.
+If the Job was *Immoral*, your Moral Crew also become Disgruntled.
 
 * To show you are *Solid* with a Contact, take the completed Job Card and slide
 it under your Ship Card so the name of the Contact is visible. If you were
@@ -1057,6 +1051,4 @@ from the bank instead of Working a Job.
 If you’ve Loaded Cargo, Contraband, Passengers or Fugitives on to your
 ship as part of a Job and subsequently lose them, you’re on your own to replace
 them. You can’t return to the Pick Up location to get more.
-
-*Related Topics:* Morality, Misbehave Cards
 
