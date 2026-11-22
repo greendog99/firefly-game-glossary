@@ -264,7 +264,8 @@ the final step if the job does not normally require Misbehaving.
 
 When you complete a Job with an attached Challenge, you become Solid with Mr.
 Universe in addition to the Job's Contact. If you receive a *Warrant* while
-working a Job with an attached Challenge, you lose Reputation with Mr. Universe.
+working a Job with an attached Challenge, you lose Reputation with Mr. Universe,
+and must immediately discard down to three cards.
 
 === Consider
 
@@ -359,7 +360,8 @@ Action.
 When accepting new jobs, you may *Consider* three cards, and may accept up to two of
 those cards.
 
-You may not have more than three inactive Jobs or Challenges in your hand at any time.
+You may not have more than three inactive Jobs or Challenges in your hand at any
+time, or five while Solid with Mr. Universe.
 
 === Deceptive
 
@@ -529,6 +531,12 @@ from your hand at any time.
 You may have up to three active Job Cards in your Active Jobs area. You may
 _not_ discard Active Jobs. They must be completed, or are lost if you gain a
 *Warrant* during a *Work Action* on them.
+
+[.expansion]#BlueSun# While *Solid* with Mr. Universe, you may hold five Jobs and
+Challenges in your hand. If you lose that Rep, immediately discard down to three.
+
+[.expansion]#Kalidasa# While Solid with Magistrate Higgins, you may have four
+Active Jobs. If you lose that Rep while you have four, choose one to discard.
 
 Job Cards explain the Job Type (shipping, transport, smuggling, or crime),
 location(s) where the job is to be performed, whether it is *Immoral* or
@@ -722,12 +730,22 @@ turn to make space in your hold.
 
 === Piracy Jobs
 
-[.expansion]#Pirates# Piracy Job Cards allow you to raid rival players' ships,
-making off with stolen goods: cargo, contraband, fuel and parts.
+[.expansion]#Pirates# Piracy Jobs let you raid a rival's ship with a *Work
+Action* in your target's sector. You can't start one if you already have three
+Active Jobs.
 
-Like any other job, a *Work Action* is used to Work a Piracy Job. Your ship must
-be in the same sector as your intended target. You must first pass a *Boarding
-Test* followed by a *Showdown*.
+First pass a *Boarding Test*. If you fail, your attempt is over but the Job
+stays Active. Then resolve the card's *Showdown*: winning completes the Job, and
+losing an Illegal Piracy Job means a Warrant is Issued.
+
+Piracy Jobs are Subjective: they're Immoral if the target's Leader is Moral (see
+*Morality*).
+
+When you win, steal what the card allows:
+
+* *Goods*: no more than your empty space. You may jettison Goods first to make
+room. Goods in the target's *Stash* can't be stolen.
+* Jobs: you must discard down to three before your Work Action ends.
 
 === Planetary Sector
 
