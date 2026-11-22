@@ -695,8 +695,7 @@ deck to form a new deck.
 
 === Operative's Corvette
 
-[.expansion]#Kalidasa# The Operative prowls all of known space, looking for
-fugitives and wanted criminals. His Corvette may enter any sector on the map.
+[.expansion]#Kalidasa# The Operative's Corvette may enter any sector on the map.
 
 If the Operative’s Corvette is ever in the same Sector as a *Reaver Cutter*,
 the Reavers are driven off—move the Reaver ship to a Reaver Starting Sector.
@@ -978,11 +977,9 @@ See *Ship Upgrades*.
 
 === Uroboros Belt
 
-The Uroboros Belt is an area of space around the Blue Sun star that is littered
-with mineral-rich asteroids and planetoids.
-
-You can start working a Job in the Uroboros Belt in any of the four Sectors that
-picture Uroboros asteroids.
+[.expansion]#BlueSun# The Uroboros Belt is the asteroid field around the Blue
+Sun star. You can start a Job there in any of the four sectors that picture
+Uroboros asteroids.
 
 Uroboros Sectors are not considered *Planetary Sectors* unless they also contain
 a named planet.
