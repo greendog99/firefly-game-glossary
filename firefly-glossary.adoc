@@ -80,7 +80,20 @@ Alert Deck.
 
 === Alliance Contact
 
-See *Alliance Cruiser*.
+Whenever an *Outlaw Ship* is in the *Alliance Cruiser*'s sector, even on another
+player's turn, it immediately resolves Alliance Contact, before drawing any Nav
+Card:
+
+* Pay $1000 per *Warrant*, then clear your Warrants. If you can't pay, all
+your Credits are seized, but the Warrants are still cleared.
+* All *Contraband* and *Fugitives* are seized, including any in your *Stash*.
+Bound Fugitives (Bounties) are not.
+* Roll for each *Wanted Crew*: on a 1, remove them from the game; on 2–6 they
+dodge capture.
+* If you're Flying, *Full Stop*.
+
+Alliance Contact doesn't use an Action, and doesn't happen again while you stay
+in the Cruiser's sector, unless you become Legal and then Outlaw again.
 
 === Alliance Cruiser
 
@@ -96,10 +109,11 @@ Cruiser.
 * When you draw the "`Cruiser Patrol`" card, the player to your right
 moves the Cruiser one Sector within Alliance Space.
 
-Any time your ship encounters the Alliance Cruiser, immediately resolve the
-Alliance Contact tile if your ship is an Outlaw Ship. Once Alliance Contact
-has been resolved, it will not affect your ship again while the two ships
-remain together in the same sector.
+Outlaw Ships in its sector must resolve *Alliance Contact*. Legal ships may pass
+through freely.
+
+Drawing the "`Alliance Cruiser`" Nav Card is different: it affects any ship,
+Legal or Outlaw, and always causes a Full Stop.
 
 [.expansion]#Pirates#
 Any time the "`Alliance Cruiser`" Nav Card is drawn, return the face-up
@@ -995,8 +1009,8 @@ a named planet.
 image::wanted-crew.png[float=right,pdfwidth=33%]
 
 *Crew* members with a small warrant badge next to their cost are wanted by the
-Alliance. If you have Wanted Crew onboard you are an *Outlaw Ship* and when you
-encounter the *Alliance Cruiser*, the Crew may be seized.
+Alliance. If you have Wanted Crew onboard you are an *Outlaw Ship*. During
+*Alliance Contact*, roll for each one: on a 1, they're removed from the game.
 
 === Wanted Crew Tokens
 
