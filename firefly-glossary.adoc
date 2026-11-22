@@ -1024,8 +1024,9 @@ To work on a job:
 Delivery jobs.
 * Place the Job Card face-up in your Active Jobs area, if not already started.
 You may not have more than three active Jobs.
-* Select which *Crew* will participate and assign *Gear* to them as desired. Crew and
-gear left on the ship may not be used during the Job.
+* Before starting the Work Action, assign *Gear* to your Crew as desired, then
+select which *Crew* will participate. Crew and Gear left on the ship may not be
+used during the Job.
 * Follow the instructions on the Job Card, including any *Misbehave Cards*, to
 attempt to work the job.
 
