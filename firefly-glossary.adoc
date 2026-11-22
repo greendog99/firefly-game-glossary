@@ -80,7 +80,7 @@ Alert Deck.
 
 === Alliance Contact
 
-Whenever an *Outlaw Ship* is in the *Alliance Cruiser*'s sector, even on another
+Whenever an *Outlaw Ship* is in the *Alliance Cruiser*’s sector, even on another
 player's turn, it immediately resolves Alliance Contact, before drawing any Nav
 Card:
 
@@ -392,24 +392,27 @@ shuffled back into their supply deck.
 image::disgruntled.png[float=right,pdfwidth=20%]
 
 When a *Crew* member becomes Disgruntled, place a Disgruntled Token on their
-card.
+card. Crew become Disgruntled when you don't pay their Cut, when you complete an
+*Immoral* Job (Moral Crew only; see *Morality*), or from Nav, Job and Misbehave
+Cards.
 
 If a Disgruntled Crew member receives a second Disgruntled Token, they jump
-ship—return the Crew to the appropriate discard pile.
+ship—return the Crew to the appropriate discard pile. They can be rehired
+immediately, by you or any other player in the area. [.expansion]#Flying# They
+may take a *Shuttle* with them.
 
 If your *Leader* ever receives a second Disgruntled token, they’ve lost
 confidence in their Crew and fire them all. Discard all your Crew, except for
 your Leader, to their Supply Deck discard piles. Remove the Disgruntled token
 from your Leader.
 
-You may, on your turn, hire Disgruntled Crew away from another player in your
-Sector by paying the Crew's hiring fee to the bank. Take the Crew Card and
-remove the Disgruntled token.
+Once per turn, on your turn, while stopped in the same Sector as a rival, you
+may hire one of their Disgruntled Crew (never their Leader) by paying its hiring
+fee to the bank. You need room in your Crew, and it doesn't use an Action. Take
+the Crew Card and remove the Disgruntled token.
 
 You may remove Disgruntled Tokens by sending your Crew on Shore Leave during a
 *Buy Action*.
-
-*Related Topics:* Morality, Shuttles
 
 === Drive Core
 
@@ -772,18 +775,28 @@ in a Planetary Sector.
 
 === Reaver Contact
 
-See *Reaver Cutters*.
+If you start your turn in a *Reaver Cutter*’s sector, resolve Reaver Contact.
+It doesn't use an Action. Choose one:
+
+* _If We're Very Lucky…_ — Kill all *Passengers* and *Fugitives*, then make a
+Fight Test: on 1–7, Kill two Crew; on 8+, Kill one Crew. Either way, *Evade*.
+* _Crazy Ivan!_ — Requires a Pilot and a Mechanic: spend one Fuel and Evade.
+
+Reaver Contact only happens at the start of a turn. A Cutter moved into your
+sector by "`Reavers on the Hunt`" waits until your next turn. The "`Reaver
+Cutter`" Nav Card has its own options, which you resolve immediately.
 
 [%breakable]
 === Reaver Cutters
 
 [%unbreakable]
 --
-The Reavers roam through Rim and Border Space, looking for unwary ships to
-raid.
+The Reavers roam through Rim and Border Space. They can never enter Alliance
+Space, for any reason. If a card would move them there and there's no legal
+sector, don't move them.
 
-If you start your turn in the same Sector as a Reaver Cutter, resolve the
-Reaver Contact tile.
+If you start your turn in the same Sector as a Reaver Cutter, resolve *Reaver
+Contact*.
 --
 
 When a Sector is occupied by a Reaver Cutter, no ship may Full Burn or Evade
@@ -800,7 +813,7 @@ The Reaver Cutters can move in three ways:
 * When you draw the "`Reaver Bait`" card, you move the Cutter.
 
 * When you draw the "`Reavers on the Hunt`" card, the player to your right
-moves the Cutter one Sector within Border Space.
+moves the Cutter one Sector within Border or Rim Space.
 
 Only one Reaver ship may ever be in a sector. If a Nav Card would call a second
 Cutter to a sector, immediately resolve Reaver Contact instead.
