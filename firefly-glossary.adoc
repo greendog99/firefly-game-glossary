@@ -71,16 +71,12 @@ Space_ — the Operative's Corvette.
 
 image::priority-alert.png[float=right,pdfwidth=33%]
 
-[.expansion]#Crime# Some Set Up and Story Cards direct you to start the game
-with an Alliance Alert Card in Play. There are also Misbehave Cards that direct
-you to put an Alert Card into play.
+[.expansion]#Crime# An Alliance Alert Card in play adds a special rule that
+affects all players. Some Set Up, Story and Misbehave Cards put one into play.
 
-When an Alert Card is in play, there is a new special rule that affects all the
-crews working the ’Verse. When an Alert Card leaves play, return it to the
-bottom of the Alert Deck.
-
-Any time the "`Alliance Cruiser`" Nav Card is drawn, draw a new
-Alliance Alert Card.
+Each time the "`Alliance Cruiser`" Nav Card is drawn, replace the Alert Card in
+play with a new one. An Alert Card leaving play always goes to the bottom of the
+Alert Deck.
 
 === Alliance Contact
 
@@ -939,19 +935,17 @@ image::goal.png[float=right,pdfwidth=23%]
 
 If a Story Goal calls for a *Skill Test*, you must use a *Work Action* to
 advance the Goal; otherwise, the Goal is simply achieved when you meet its
-requirements.
+requirements. If the Goal requires Misbehaving, Misbehave before following its
+other instructions.
 
 When you complete a Goal, take a Goal token to mark your progress. Once a Goal
 is achieved, it cannot be lost. Goals are not Jobs, thus you do not pay your
 Crew after working a Goal, and any abilities or cards which reference a "`Job`"
 do not apply.
 
-If a Story Goal results in "`Attempt *Botched*`", you've failed this attempt but
-may attempt the goal again next turn.
-
-If a Story Goal results in "`*Warrant* Issued`", you've failed the goal and
-attracted the authorities but may attempt the goal again next turn. Place a
-Warrant Token on your Ship Card.
+If a Goal attempt results in "`Attempt *Botched*`" or "`*Warrant* Issued`", you
+may try again next turn. For a Warrant, also place a Warrant Token on your Ship
+Card.
 
 === Supply Planets
 
