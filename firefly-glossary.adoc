@@ -1,5 +1,5 @@
 :doctitle: Firefly Unofficial Glossary
-:revnumber: 1.4
+:revnumber: 1.5
 :reproducible:
 :experimental:
 :imagesdir: images
@@ -25,6 +25,10 @@ blue:
 * [.expansion]#Crime# — Crime & Punishment
 * [.expansion]#Pirates# — Pirates & Bounty Hunters
 * [.expansion]#Flying# — Still Flying
+
+=== Ace in the Hole
+
+See *Misbehave Cards*.
 
 === Actions
 
@@ -91,7 +95,9 @@ dodge capture.
 * If you're Flying, *Full Stop*.
 
 Alliance Contact doesn't use an Action, and doesn't happen again while you stay
-in the Cruiser's sector, unless you become Legal and then Outlaw again.
+in the Cruiser's sector, unless you become Legal and then Outlaw again. If you
+and the Cruiser separate and meet again, even in the same turn, resolve it
+again.
 
 === Alliance Cruiser
 
@@ -173,7 +179,9 @@ image::wanted-card.png[float=right,pdfwidth=28%]
 Bind them by Law, and deliver them to a drop-off destination. Most target
 *Wanted* Crew; a *Cortex Alert* targets a whole class of Crew. The three
 face-up Bounties form the Most Wanted List, and any player may work any of
-them. When one is claimed, reveal a new one.
+them. When one is claimed, reveal a new one. If a listed Fugitive is Killed or
+removed from the game, remove their Bounty from the game too and reveal a new
+one.
 
 Capturing and delivering each take a *Work Action*, and you may apprehend only
 one Fugitive per Work Action. You must be in the Fugitive's sector:
@@ -195,8 +203,8 @@ If you capture an _already Bound_ Fugitive from a rival, you may deliver them
 yourself or rescue them: add them to your Crew for free or return them to their
 Supply Planet's discard pile, and put the Bounty Card on the bottom of its deck.
 
-*Reaver Contact* also removes Bound Fugitives on your ship, and their Bounty
-Cards, from the game.
+*Reaver Contact*’s "`If We're Very Lucky…`" option also removes Bound
+Fugitives on your ship, and their Bounty Cards, from the game.
 
 On delivery, get paid and pay your Crew as with any Job. If the Bounty is
 *Immoral*, your Moral Crew also become Disgruntled. Then remove the Bounty Card
@@ -249,8 +257,8 @@ Shipping Jobs require you to pick up Cargo at one location (using a *Work
 Action*) and deliver it to a different location (using a second Work Action).
 
 Once you are *Solid* with certain *Contacts*, you may sell excess Cargo to them
-when *Dealing* with them. When you are Solid with Lord Harrow, you may purchase
-Cargo from him.
+when *Dealing* with them. When you are Solid with Lord Harrow, you may buy any
+amount of Cargo from him for $300 each during a Deal Action.
 
 Players in the same sector may *Trade* Cargo along with other items.
 
@@ -271,7 +279,8 @@ When starting a new Job with a *Work Action*, you may attach a Challenge card
 from your hand to the Job Card. Challenges may not be attached to Bounties or
 Piracy Jobs. Legal and Illegal Challenges may only be attached to Jobs of the
 same legality. Active Challenge Cards do not count toward your active job
-limit.
+limit. [.expansion]#Flying# Challenges can be attached to *Capers*, but extra
+Misbehaves don't change a Caper's payout.
 
 If a Challenge Card requires extra *Misbehaves*, that number of Misbehaves must
 be added at _each step_ of the Job that already requires Misbehaving, or during
@@ -412,7 +421,7 @@ may take a *Shuttle* with them.
 
 If your *Leader* ever receives a second Disgruntled token, they’ve lost
 confidence in their Crew and fire them all. Discard all your Crew, except for
-your Leader, to their Supply Deck discard piles. Remove the Disgruntled token
+your Leader, to their Supply Deck discard piles. Remove both Disgruntled tokens
 from your Leader.
 
 Once per turn, on your turn, while stopped in the same Sector as a rival, you
@@ -422,6 +431,10 @@ the Crew Card and remove the Disgruntled token.
 
 You may remove Disgruntled Tokens by sending your Crew on Shore Leave during a
 *Buy Action*.
+
+=== Dismissing Crew
+
+See *Crew Cards*.
 
 === Drive Core
 
@@ -572,6 +585,13 @@ location(s) where the job is to be performed, whether it is *Immoral* or
 *Illegal*, if *Misbehaving* is required, *Skills* and *Keywords* needed to Work
 the job, the job's payout, any *Bonus Opportunity*, and more.
 
+[.expansion]#Kalidasa# Some Jobs have two Job Types. The rules and bonuses for
+both apply.
+
+=== Jump Ship
+
+See *Disgruntled*.
+
 === Keep Flying
 
 When a *Nav Card* outcome says to Keep Flying, you may continue your *Fly
@@ -637,7 +657,7 @@ happens.
 
 If your Leader ever receives a second Disgruntled token, they’ve lost
 confidence in their Crew and fire them. Discard all your Crew, except your
-Leader, to their Supply Deck discard piles. Remove the Disgruntled token from
+Leader, to their Supply Deck discard piles. Remove both Disgruntled tokens from
 your Leader.
 
 Leaders can never be hired away by other players.
@@ -679,8 +699,9 @@ requirement you can't meet. Some cards may have two steps to pass sequentially.
 [.expansion]#Crime# If an option has you draw a replacement card, the original
 doesn't count as passed.
 
-The bottom of some Misbehave Cards list a Person, Profession, Item, or
-*Keyword* which will allow you to proceed automatically without misbehaving.
+The bottom right corner of some Misbehave Cards shows an "`Ace in the Hole`":
+a Person, Profession, Item, or *Keyword* which will allow you to proceed
+automatically without misbehaving.
 
 Misbehaving outcomes:
 
@@ -726,6 +747,10 @@ When any Nav Deck becomes exhausted, or when a card marked
 [.keyword]#RESHUFFLE# is resolved, reshuffle the discard pile and remaining
 deck to form a new deck.
 
+[.expansion]#BlueSun# [.expansion]#Kalidasa# A [.keyword]#RESHUFFLE# card never
+stays in a discard pile. If one is discarded without being resolved, reshuffle
+its deck after the current Action. This applies to the Misbehave Deck too.
+
 === Operative's Corvette
 
 [.expansion]#Kalidasa# The Operative's Corvette may enter any sector on the map.
@@ -733,6 +758,9 @@ deck to form a new deck.
 If the Operative’s Corvette is ever in the same Sector as a *Reaver Cutter*,
 the Reavers are driven off—move the Reaver ship to a Reaver Starting Sector.
 The Corvette may not end its move in the three Reaver Starting Sectors.
+
+If you draw the "`Reaver Cutter`" Nav Card when moving into the Corvette's
+sector, don't resolve it. Reshuffle the Nav Deck as usual.
 
 Whenever the Operative’s Corvette enters a Sector with Reaver *Alert
 Tokens* image:alert-token-reaver.png[fit=line], remove the tokens without
@@ -768,8 +796,9 @@ Some transport Jobs require you to pick up Passengers at one location (using a
 Action).
 
 You may drop off Passengers in any *Planetary Sector* at any time on your turn
-to make space in your hold. *Reaver Contact* kills all your Passengers, even in
-your Stash, and Passengers can't be stolen by a *Piracy Job*.
+to make space in your hold. *Reaver Contact*’s "`If We're Very Lucky…`" option
+kills all your Passengers, even in your Stash, and Passengers can't be stolen
+by a *Piracy Job*.
 
 === Piracy Jobs
 
@@ -851,6 +880,10 @@ Reavers are driven off. Move the Reaver ship to a Reaver Starting Sector.
 
 See *Solid*.
 
+=== Rescue
+
+See *Bounty Cards*.
+
 === Salvage Op
 
 Some cards have "`Salvage Op`" listed on them, which may activate a bonus on
@@ -876,7 +909,11 @@ slots for a *Drive Core* and *Ship Upgrades*, and a maximum crew capacity.
 Some ships have special rules:
 
 * _Series 4 ships:_ six Stash spaces that hold only Fuel. They come with
-starting Ship Upgrades; during Set Up, pay the costs listed on those cards.
+starting Ship Upgrades; during Set Up, pay the costs listed on those cards. If
+discarded, they're removed from play. A Series 4 ship can swap its Drive Core.
+
+* [.expansion]#Pirates# _S.S. Walden and Interceptor:_ unique Drive Cores that
+can't be swapped out. Both count as a "`Firefly`" for rules and Nav Cards.
 
 * [.expansion]#Flying# _Restless Sole:_ its unique Drive Core can't be swapped
 out, and it counts as a "`Firefly`" for rules and Nav Cards.
@@ -947,7 +984,7 @@ Heroics Bonus Roll*—roll the die again and add the result to the total.
 === Solid
 
 When you complete a *Job* for a *Contact* your reputation with them becomes
-Solid. Slide the completed Job Card under your Ship so the name of the
+Solid. Slide the completed Job Card under your Ship card so the name of the
 Contact is visible. If you complete a job and are already Solid with that
 Contact, remove the newly completed job card from the game.
 
@@ -959,7 +996,7 @@ benefits. Contacts will not _sell_ you Cargo or Contraband unless their card
 says "`Selling`".
 
 If you receive a *Warrant* during a *Work Action*, you lose your Solid
-reputation with that Job's Contact: remove their Job Card under your Ship
+reputation with that Job's Contact: remove their Job Card under your Ship card
 from the game. Complete another of their Jobs to become Solid again.
 
 Receiving a Warrant for _any reason_ will cause reputation loss with Harken,
@@ -979,8 +1016,8 @@ When you're targeted, you may rearrange your Goods, *Passengers* and *Fugitives*
 between your Cargo Hold and Stash until the Showdown is rolled.
 
 Stashed *Contraband* and Fugitives still make you an *Outlaw Ship*, and the
-Alliance seizes them during *Alliance Contact*. *Reaver Contact* kills all
-Passengers and Fugitives, stashed or not.
+Alliance seizes them during *Alliance Contact*. *Reaver Contact*’s "`If We're
+Very Lucky…`" option kills all Passengers and Fugitives, stashed or not.
 
 The Stash on a Series 4 ship (see *Ship Card*) may only hold Fuel.
 
@@ -1111,7 +1148,8 @@ If, while working a Job, all your Crew is killed or returns to the ship, you’v
 After successfully completing a job:
 
 * Take the listed payout from the bank, including any bonuses from the Job
-Card, Crew Cards, and Story Card.
+Card, Crew Cards, and Story Card. A Job's bonus tab pays once if any Crew
+working the Job has the listed Profession, however many have it.
 * Pay every crew member the value listed on their card, whether they worked
 on the job or not. Any Crew member you choose not to pay becomes *Disgruntled*.
 If the Job was *Immoral*, your Moral Crew also become Disgruntled.
